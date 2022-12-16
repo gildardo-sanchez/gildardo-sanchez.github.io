@@ -1,7 +1,18 @@
+title: "Paper Title Number 3"
+collection: publications
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2015-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+---
 
 # PUBLICACIONES EN JOURNALS (JCR)
 
-*Nanocomposites based on doped ZnO nanoparticles for antibacterial applications*, Diego E. Navarro-López, Triana M. Sánchez-Huerta, Mariana S. Flores-Jimenez, Naveen Tiwari, A. Sanchez-Martinez, O.Ceballos-Sanchez, Alejandro Garcia-Gonzalez, Rita Q. Fuentes-Aguilar, Gildardo Sanchez-Ante, Kaled Corona-Romero, Gabriel Rincón-Enríquez,Edgar R. López-Mena, Colloids and Surfaces A, Physicochemical and Engineering Aspects, 652, 129871, (2022),
+title: "Nanocomposites based on doped ZnO nanoparticles for antibacterial applications"
+
+Diego E. Navarro-López, Triana M. Sánchez-Huerta, Mariana S. Flores-Jimenez, Naveen Tiwari, A. Sanchez-Martinez, O.Ceballos-Sanchez, Alejandro Garcia-Gonzalez, Rita Q. Fuentes-Aguilar, Gildardo Sanchez-Ante, Kaled Corona-Romero, Gabriel Rincón-Enríquez,Edgar R. López-Mena, Colloids and Surfaces A, Physicochemical and Engineering Aspects, 652, 129871, (2022),
 <https://doi.org/10.1016/j.colsurfa.2022.129871>
 
 *El aprendizaje de máquina y el modelado de propiedades de materiales nanoestructurados,* Kaled Corona-Romero, M. Fernanda Rosales-De la Cruz, Diego E. Navarro-López, Edgar R. López- Mena y Gildardo Sánchez-Ante, Komputer Sapiens, 2022, 14(2), 48-52
