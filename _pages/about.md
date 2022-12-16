@@ -19,5 +19,3 @@ His interests in research are focused on Motion Planning Algorithms for robots, 
 
 He is a National Researcher, Level I by the Sistema Nacional de Investigadores in Mexico.
 Currently Gildardo is a full time Professor at Tecnologico de Monterrey.
-
-202
