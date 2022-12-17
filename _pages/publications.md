@@ -7,53 +7,70 @@ author_profile: true
 
 ## 2022
 
-"Nanocomposites based on doped ZnO nanoparticles for antibacterial applications", Diego E. Navarro-López, Triana M. Sánchez-Huerta, Mariana S. Flores-Jimenez, Naveen Tiwari, A. Sanchez-Martinez, O.Ceballos-Sanchez, Alejandro Garcia-Gonzalez, Rita Q. Fuentes-Aguilar, Gildardo Sanchez-Ante, Kaled Corona-Romero, Gabriel Rincón-Enríquez,Edgar R. López-Mena, *Colloids and Surfaces A, Physicochemical and Engineering Aspects*, 652, 129871, (2022),
-<https://doi.org/10.1016/j.colsurfa.2022.129871
+"Nanocomposites based on doped ZnO nanoparticles for antibacterial applications",
+Diego E. Navarro-López, Triana M. Sánchez-Huerta, Mariana S. Flores-Jimenez, Naveen Tiwari, A. Sanchez-Martinez, O.Ceballos-Sanchez, Alejandro Garcia-Gonzalez, Rita Q. Fuentes-Aguilar, Gildardo Sanchez-Ante, Kaled Corona-Romero, Gabriel Rincón-Enríquez,Edgar R. López-Mena, *Colloids and Surfaces A, Physicochemical and Engineering Aspects*, 652, 129871, (2022), DOI:[*10.1016/j.colsurfa.2022.129871*](https://doi.org/10.1016/j.colsurfa.2022.129871)
 
-*El aprendizaje de máquina y el modelado de propiedades de materiales nanoestructurados,* Kaled Corona-Romero, M. Fernanda Rosales-De la Cruz, Diego E. Navarro-López, Edgar R. López- Mena y Gildardo Sánchez-Ante, Komputer Sapiens, 2022, 14(2), 48-52
+"El aprendizaje de máquina y el modelado de propiedades de materiales nanoestructurados",
+Kaled Corona-Romero, M. Fernanda Rosales-De la Cruz, Diego E. Navarro-López, Edgar R. López- Mena y Gildardo Sánchez-Ante, *Komputer Sapiens*, 2022, 14(2), 48-52
 
-*Influence of erbium doping on zinc oxide nanoparticles: Structural, optical and antimicrobial activity,* Angélica Lizeth Sánchez-López, Y. Perfecto-Avalos, A. Sanchez-Martinez, O. Ceballos-Sanchez, M. Sepulveda-Villegas, Gabriel Rincón-Enríquez, Vicente, Rodríguez-González, Rebeca Garcia-Varela, L. Marcelo Lozano, Diego Eloyr Navarro-López, Gildardo Sanchez-Ante, Kaled Corona-Romero, Edgar R. López-Mena, Applied Surface Science, Volume 575, 2022, 151764,*<https://doi.org/10.1016/j.apsusc.2021.151764.*
+"Influence of erbium doping on zinc oxide nanoparticles: Structural, optical and antimicrobial activity",
+Angélica Lizeth Sánchez-López, Y. Perfecto-Avalos, A. Sanchez-Martinez, O. Ceballos-Sanchez, M. Sepulveda-Villegas, Gabriel Rincón-Enríquez, Vicente, Rodríguez-González, Rebeca Garcia-Varela, L. Marcelo Lozano, Diego Eloyr Navarro-López, Gildardo Sanchez-Ante, Kaled Corona-Romero, Edgar R. López-Mena, *Applied Surface Science*, Volume 575, 2022, 151764, DOI:[*10.1016/j.apsusc.2021.151764*](https://doi.org/10.1016/j.apsusc.2021.151764)
 
 ## 2021
-*Special Issue on the Thirteenth Workshop on the Algorithmic Foundations of Robotics (WAFR) 2018*, Morales M, Tapia L, Sánchez-Ante G, Hutchinson S., The International Journal of Robotics Research. 2021;40(10-11):1047-1048. [https://doi.org/10.1177/02783649211038](https://doi.org/10.1177/02783649211038146)
+"Special Issue on the Thirteenth Workshop on the Algorithmic Foundations of Robotics (WAFR) 2018",
+Morales M, Tapia L, Sánchez-Ante G, Hutchinson S., *The International Journal of Robotics Research*. 2021;40(10-11):1047-1048. DOI:[*10.1177/02783649211038*](https://doi.org/10.1177/02783649211038146)
 
-*Guest Editorial Special Issue on the 2018 Workshop on the Algorithmic Foundations of Robotics (WAFR),* L. Tapia, M. Morales, S. Hutchinson and G. Sánchez-Ante, IEEE Transactions on Automation Science and Engineering 18(3):863-863,(2021) DOI:[*10.1109/TASE.2021.3076247*](https://ieeexplore.ieee.org/document/9471042)
+"Guest Editorial Special Issue on the 2018 Workshop on the Algorithmic Foundations of Robotics (WAFR)",
+L. Tapia, M. Morales, S. Hutchinson and G. Sánchez-Ante, *IEEE Transactions on Automation Science and Engineering* 18(3):863-863,(2021) DOI:[*10.1109/TASE.2021.3076247*](https://ieeexplore.ieee.org/document/9471042)
 
-*Effective antimicrobial activity of ZnO and Yb-doped ZnO nanoparticles against Staphylococcus aureus and Escherichia coli* Diego Eloyr Navarro-López, O. Ceballos-Sanchez, A. Sanchez-Martinez, Rebeca Garcia-Varela, Gildardo Sanchez-Ante, Kaled Corona-Romero, D. Buentello-Montoya, Alex Elías-Zuñiga, Edgar R. López-Mena^,^ Materials Science & Engineering C 123 (2021) 112004. *<https://doi.org/10.1016/j.msec.2021.112004*
+"Effective antimicrobial activity of ZnO and Yb-doped ZnO nanoparticles against Staphylococcus aureus and Escherichia coli",
+Diego Eloyr Navarro-López, O. Ceballos-Sanchez, A. Sanchez-Martinez, Rebeca Garcia-Varela, Gildardo Sanchez-Ante, Kaled Corona-Romero, D. Buentello-Montoya, Alex Elías-Zuñiga, Edgar R. López-Mena, *Materials Science & Engineering C* 123 (2021) 112004. DOI:[*10.1016/j.msec.2021.112004*](https://doi.org/10.1016/j.msec.2021.112004)
 
 ## 2020
-*The effect of Yb doping on ZnO thin films obtained via a low-temperature spin coating method. *López-Mena, E.R., Ceballos-Sanchez, O., Hooper, T.J.N. et al. J Mater Sci: Mater Electron (2020). <https://doi.org/10.1007/s10854-020-04785-7
+"The effect of Yb doping on ZnO thin films obtained via a low-temperature spin coating method"", López-Mena, E.R., Ceballos-Sanchez, O., Hooper, T.J.N. et al., *J Mater Sci: Mater Electron*, (2020). DOI:[10.1007/s10854-020-04785-7](https://doi.org/10.1007/s10854-020-04785-7)
 
 ## 2019
-*Discriminant Analysis and machine learning approach for evaluating and improving the performance of immunohistochemical algorithms for COO classification of DLBCL,* Perfecto-Avalos, Garcia-Gonzalez, Hernandez-Reynoso, Sánchez-Ante G, Ortiz-Hidalgo C, Scott SP, Fuentes-Aguilar RQ, Diaz-Dominguez R, León-Martínez G, Velasco-Vales V, Cárdenas-Escudero MA, Hernández-Hernández JA, Santos A, Borbolla-Escoboza JR, Villela L*. J Transl Med. 2019 Jun 11;17(1):198.* *doi:[10.1186/s12967-019-1951-y](https://doi.org/10.1186/s12967-019-1951-y).*
+"Discriminant Analysis and machine learning approach for evaluating and improving the performance of immunohistochemical algorithms for COO classification of DLBCL",
+Perfecto-Avalos, Garcia-Gonzalez, Hernandez-Reynoso, Sánchez-Ante G, Ortiz-Hidalgo C, Scott SP, Fuentes-Aguilar RQ, Diaz-Dominguez R, León-Martínez G, Velasco-Vales V, Cárdenas-Escudero MA, Hernández-Hernández JA, Santos A, Borbolla-Escoboza JR, Villela L. *J Transl Med. 2019 Jun 11;17(1):198*, DOI:[*10.1186/s12967-019-1951-y*](https://doi.org/10.1186/s12967-019-1951-y).
 
 ## 2018
-*Dendrite Morphological Neural Networks for Motor Task Recognition from Electroencephalographic signals,* Javier M. Antelis, Berenice Gudiño-Mendoza, Luis Eduardo Falcón, Gildardo Sánchez-Ante, Humberto Sossa, Biomedical Signal Processing and control, 44(2018) 12-24, DOI: *<https://doi.org/10.1016/j.bspc.2018.03.010*
-
+"Dendrite Morphological Neural Networks for Motor Task Recognition from Electroencephalographic signals",
+Javier M. Antelis, Berenice Gudiño-Mendoza, Luis Eduardo Falcón, Gildardo Sánchez-Ante, Humberto Sossa, *Biomedical Signal Processing and control*, 44(2018) 12-24, DOI:[*10.1016/j.bspc.2018.03.010*](https://doi.org/10.1016/j.bspc.2018.03.010)
 
 ## 2017
-*Image segmentation by minimum cross entropy using evolutionary methods*, Diego Oliva, Salvador Hinojosa, Valentin Osuna-Enciso, Erik Cuevas, Marco Pérez-Cisneros, Gildardo Sanchez-Ante, Soft Computing,(2017), DOI:[10.1007/s00500-017-2794-1](https://link.springer.com/article/10.1007/s00500-017-2794-1).
+"Image segmentation by minimum cross entropy using evolutionary methods",
+Diego Oliva, Salvador Hinojosa, Valentin Osuna-Enciso, Erik Cuevas, Marco Pérez-Cisneros, Gildardo Sanchez-Ante, *Soft Computing*,(2017), DOI:[*10.1007/s00500-017-2794-1*](https://link.springer.com/article/10.1007/s00500-017-2794-1).
 
-*Adaptive Simulated Annealing for Tuning PID Controllers*, Luis Fernando Fraga-Gonzalez, Rita Q. Fuentes-Aguilar, Alejandro Garcia-Gonzalez, Gildardo Sanchez-Ante, AI Communications, (2017), DOI:[10.3233/AIC-170741](http://content.iospress.com/articles/ai-communications/aic741).
+"Adaptive Simulated Annealing for Tuning PID Controllers",
+Luis Fernando Fraga-Gonzalez, Rita Q. Fuentes-Aguilar, Alejandro Garcia-Gonzalez, Gildardo Sanchez-Ante, *AI Communications*, (2017), DOI:[*10.3233/AIC-170741*](http://content.iospress.com/articles/ai-communications/aic741)
 
-*A Community Perspective on Resilience Analytics: A Visual Analysis of Community Mood*, Armando López-Cuevas, José Ramírez-Márquez, Gildardo Sanchez-Ante, Kash Barker, Risk Analysis, (2017), DOI:[10.1111/risa.12788](http://onlinelibrary.wiley.com/doi/10.1111/risa.12788/abstract).
+"A Community Perspective on Resilience Analytics: A Visual Analysis of Community Mood",
+Armando López-Cuevas, José Ramírez-Márquez, Gildardo Sanchez-Ante, Kash Barker, *Risk Analysis*, (2017), DOI:[10.1111/risa.12788](http://onlinelibrary.wiley.com/doi/10.1111/risa.12788/abstract).
 
-*Assessment of feature selection and classification methods for recognizing motor imagery tasks from electroencephalographic signals* Roberto Vega, Touqir Sajed, Kory Wallace Mathewson, Kriti Khare, Patrick M. Pilarski, Russ Greiner, Gildardo Sanchez-Ante, Javier M. Antelis, Artificial Intelligence Research, Vol. 6, No. 1, 2017, DOI:[10.5430/air.v6n1p37](http://dx.doi.org/10.5430/air.v6n1p37)
+"Assessment of feature selection and classification methods for recognizing motor imagery tasks from electroencephalographic signals",
+Roberto Vega, Touqir Sajed, Kory Wallace Mathewson, Kriti Khare, Patrick M. Pilarski, Russ Greiner, Gildardo Sanchez-Ante, Javier M. Antelis, *Artificial Intelligence Research*, Vol. 6, No. 1, 2017, DOI:[*10.5430/air.v6n1p37*](http://dx.doi.org/10.5430/air.v6n1p37)
 
 ## 2016 and previous
-*Detecting the intention to move upper limbs from electroencephalographic brain signals,* Berenice Gudiño-Mendoza, Gildardo Sanchez-Ante, Javier M. Antelis, Computational and Mathematical Methods in Medicine, Volume 2016 (2016), Article ID 3195373, 11 pages, DOI:[10.1155/2016/3195373](http://dx.doi.org/10.1155/2016/3195373).
+"Detecting the intention to move upper limbs from electroencephalographic brain signals",
+Berenice Gudiño-Mendoza, Gildardo Sanchez-Ante, Javier M. Antelis, *Computational and Mathematical Methods in Medicine*, Volume 2016 (2016), Article ID 3195373, 11 pages, DOI:[*10.1155/2016/3195373*](http://dx.doi.org/10.1155/2016/3195373).
 
-*Improving Pattern Classification of DNA Microarray Data by using PCA and Logistic Regression,* Ricardo Ocampo-Vega, Gildardo Sanchez-Ante, Marco A. de Luna, Roberto Vega, Luis E. Falcon-Morales, and Humberto Sossa, International Journal on Intelligent Data Analysis (JIDA), vol. 20, no. s1, pp. S53-S67, (2016), DOI:[10.3233/IDA-160845](http://content.iospress.com/articles/intelligent-data-analysis/ida845).
+"Improving Pattern Classification of DNA Microarray Data by using PCA and Logistic Regression",
+Ricardo Ocampo-Vega, Gildardo Sanchez-Ante, Marco A. de Luna, Roberto Vega, Luis E. Falcon-Morales, and Humberto Sossa, *International Journal on Intelligent Data Analysis (JIDA)*, vol. 20, no. s1, pp. S53-S67, (2016), DOI:[*10.3233/IDA-160845*](http://content.iospress.com/articles/intelligent-data-analysis/ida845).
 
-*Molecular Subtype Classification of Diffuse Large B-Cell Lymphoma By Immunohisto-chemical Algorithms and Automatic Supervised Classifiers,* Yocanxóchitl Perfecto-Avalos, Luis Villela, Alejandro Garcia-Gonzalez, Ana G. Hernández-Reynoso, Gildardo Sánchez-Ante, Rita Q.Fuentes-Aguilar, Sean Scott, Carlos Ortiz-Hidalgo and Jose Borbolla Escoboza*,* Blood 2016 [128:4229](http://www.bloodjournal.org/content/128/22/4229?sso-checked=true);
+Molecular Subtype Classification of Diffuse Large B-Cell Lymphoma By Immunohisto-chemical Algorithms and Automatic Supervised Classifiers",
+Yocanxóchitl Perfecto-Avalos, Luis Villela, Alejandro Garcia-Gonzalez, Ana G. Hernández-Reynoso, Gildardo Sánchez-Ante, Rita Q.Fuentes-Aguilar, Sean Scott, Carlos Ortiz-Hidalgo and Jose Borbolla Escoboza, *Blood* 2016 DOI:[128:4229](http://www.bloodjournal.org/content/128/22/4229?sso-checked=true)
 
-*Hemodynamic Pattern Recognition during the Deception Process using Functional Near Infrared Spectroscopy,* Roberto Vega, Ana G. Hernandez-Reynoso, Emily Kellison-Linn, Rita Q. Fuentes-Aguilar, Gildardo Sanchez-Ante, Arturo Santos-Garcia, Alejandro Garcia-Gonzalez, Journal of Medical and Biological Engineering, (Feb 2016), Vol. 36, (1), pp 22-31. DOI:[10.1007/s40846-016-0103-6](http://doi.org/10.1007/s40846-016-0103-6).
+"Hemodynamic Pattern Recognition during the Deception Process using Functional Near Infrared Spectroscopy",
+Roberto Vega, Ana G. Hernandez-Reynoso, Emily Kellison-Linn, Rita Q. Fuentes-Aguilar, Gildardo Sanchez-Ante, Arturo Santos-Garcia, Alejandro Garcia-Gonzalez, *Journal of Medical and Biological Engineering*, (Feb 2016), Vol. 36, (1), pp 22-31. DOI:[*10.1007/s40846-016-0103-6*](http://doi.org/10.1007/s40846-016-0103-6).
 
-*Retinal vessel extraction using Lattice Neural Networks with dendritic processing,* Roberto Vega, Gildardo Sanchez-Ante, Luis E. Falcon-Morales, Humberto Sossa, E. Guevara, Computers in Biology and Medicine 58 (2015) 20-30, DOI:[10.1016/j.compbiomed.2014.12.016](http://dx.doi.org/10.1016/j.compbiomed.2014.12.016).
+"Retinal vessel extraction using Lattice Neural Networks with dendritic processing",
+Roberto Vega, Gildardo Sanchez-Ante, Luis E. Falcon-Morales, Humberto Sossa, E. Guevara, *Computers in Biology and Medicine* 58 (2015) 20-30, DOI:[10.1016/j.compbiomed.2014.12.016](http://dx.doi.org/10.1016/j.compbiomed.2014.12.016).
 
-*Planning Tours of Robotic Arms among Partitioned Goals* Mitul Saha, Gildardo Sánchez, Jean-Claude Latombe, and Tim Roughgarden. Int. Journal on Robotics Research, Vol. 25 (3), pp 207-223, 2006, DOI:[10.1177/0278364906061705](http://dx.doi.org/10.1177/0278364906061705).
+"Planning Tours of Robotic Arms among Partitioned Goals",
+Mitul Saha, Gildardo Sánchez, Jean-Claude Latombe, and Tim Roughgarden. *Int. Journal on Robotics Research*, Vol. 25 (3), pp 207-223, 2006, DOI:[10.1177/0278364906061705](http://dx.doi.org/10.1177/0278364906061705).
 
-*On Delaying Collision Checking in PRM Planning - Application to Multi-Robot Coordination*, G. Sánchez-Ante and J.-C. Latombe, Int. Journal on Robotics Research (IJRR) Vol.21, No. 1, pp.5-26, 2002, DOI:[10.1177/027836402320556458](http://dx.doi.org/10.1177/027836402320556458)
+"On Delaying Collision Checking in PRM Planning - Application to Multi-Robot Coordination",
+G. Sánchez-Ante and J.-C. Latombe, *Int. Journal on Robotics Research (IJRR)* Vol.21, No. 1, pp.5-26, 2002, DOI:[10.1177/027836402320556458](http://dx.doi.org/10.1177/027836402320556458)
 
 # PUBLICACIONES EN PROCEEDINGS
 *Classification of Motor States from Brain Rhythms Using Lattice Neural Networks*,Berenice Gudino-Mendoza, Humberto Sossa, Gildardo Sanchez-Ante, and Javier M. Antelis, Proc. 8th Mexican Conference on Pattern
