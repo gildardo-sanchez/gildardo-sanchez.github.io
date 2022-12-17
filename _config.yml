@@ -93,7 +93,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "https://www.flickr.com/photos/gildardo"
+  flickr           : "/photos/gildardo"
   facebook         :
   foursquare       :
   github           : #"academicpages"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/@gildardo_sanchez"
+  youtube          : "@gildardo_sanchez"
   wikipedia        :
 
 
