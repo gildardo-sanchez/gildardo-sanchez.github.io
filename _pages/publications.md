@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2022
 
-*Nanocomposites based on doped ZnO nanoparticles for antibacterial applications*, Diego E. Navarro-López, Triana M. Sánchez-Huerta, Mariana S. Flores-Jimenez, Naveen Tiwari, A. Sanchez-Martinez, O.Ceballos-Sanchez, Alejandro Garcia-Gonzalez, Rita Q. Fuentes-Aguilar, Gildardo Sanchez-Ante, Kaled Corona-Romero, Gabriel Rincón-Enríquez,Edgar R. López-Mena, Colloids and Surfaces A, Physicochemical and Engineering Aspects, 652, 129871, (2022),
+"Nanocomposites based on doped ZnO nanoparticles for antibacterial applications", Diego E. Navarro-López, Triana M. Sánchez-Huerta, Mariana S. Flores-Jimenez, Naveen Tiwari, A. Sanchez-Martinez, O.Ceballos-Sanchez, Alejandro Garcia-Gonzalez, Rita Q. Fuentes-Aguilar, Gildardo Sanchez-Ante, Kaled Corona-Romero, Gabriel Rincón-Enríquez,Edgar R. López-Mena, *Colloids and Surfaces A, Physicochemical and Engineering Aspects*, 652, 129871, (2022),
 <https://doi.org/10.1016/j.colsurfa.2022.129871
 
 *El aprendizaje de máquina y el modelado de propiedades de materiales nanoestructurados,* Kaled Corona-Romero, M. Fernanda Rosales-De la Cruz, Diego E. Navarro-López, Edgar R. López- Mena y Gildardo Sánchez-Ante, Komputer Sapiens, 2022, 14(2), 48-52
@@ -17,8 +17,7 @@ author_profile: true
 ## 2021
 *Special Issue on the Thirteenth Workshop on the Algorithmic Foundations of Robotics (WAFR) 2018*, Morales M, Tapia L, Sánchez-Ante G, Hutchinson S., The International Journal of Robotics Research. 2021;40(10-11):1047-1048. [https://doi.org/10.1177/02783649211038](https://doi.org/10.1177/02783649211038146)
 
-*Guest Editorial Special Issue on the 2018 Workshop on the Algorithmic Foundations of Robotics (WAFR),* L. Tapia, M. Morales, S. Hutchinson and G. Sánchez-Ante, IEEE Transactions on Automation Science and Engineering 18(3):863-863,
-(2021) DOI:[*10.1109/TASE.2021.3076247*](https://ieeexplore.ieee.org/document/9471042)
+*Guest Editorial Special Issue on the 2018 Workshop on the Algorithmic Foundations of Robotics (WAFR),* L. Tapia, M. Morales, S. Hutchinson and G. Sánchez-Ante, IEEE Transactions on Automation Science and Engineering 18(3):863-863,(2021) DOI:[*10.1109/TASE.2021.3076247*](https://ieeexplore.ieee.org/document/9471042)
 
 *Effective antimicrobial activity of ZnO and Yb-doped ZnO nanoparticles against Staphylococcus aureus and Escherichia coli* Diego Eloyr Navarro-López, O. Ceballos-Sanchez, A. Sanchez-Martinez, Rebeca Garcia-Varela, Gildardo Sanchez-Ante, Kaled Corona-Romero, D. Buentello-Montoya, Alex Elías-Zuñiga, Edgar R. López-Mena^,^ Materials Science & Engineering C 123 (2021) 112004. *<https://doi.org/10.1016/j.msec.2021.112004*
 
@@ -52,9 +51,7 @@ author_profile: true
 
 *Retinal vessel extraction using Lattice Neural Networks with dendritic processing,* Roberto Vega, Gildardo Sanchez-Ante, Luis E. Falcon-Morales, Humberto Sossa, E. Guevara, Computers in Biology and Medicine 58 (2015) 20-30, DOI:[10.1016/j.compbiomed.2014.12.016](http://dx.doi.org/10.1016/j.compbiomed.2014.12.016).
 
-*Planning Tours of Robotic Arms among Partitioned Goals* Mitul Saha, Gildardo Sánchez, Jean-Claude Latombe, and Tim
- Roughgarden. Int. Journal on Robotics Research, Vol. 25 (3), pp 207-223, 2006,
- DOI:[10.1177/0278364906061705](http://dx.doi.org/10.1177/0278364906061705).
+*Planning Tours of Robotic Arms among Partitioned Goals* Mitul Saha, Gildardo Sánchez, Jean-Claude Latombe, and Tim Roughgarden. Int. Journal on Robotics Research, Vol. 25 (3), pp 207-223, 2006, DOI:[10.1177/0278364906061705](http://dx.doi.org/10.1177/0278364906061705).
 
 *On Delaying Collision Checking in PRM Planning - Application to Multi-Robot Coordination*, G. Sánchez-Ante and J.-C. Latombe, Int. Journal on Robotics Research (IJRR) Vol.21, No. 1, pp.5-26, 2002, DOI:[10.1177/027836402320556458](http://dx.doi.org/10.1177/027836402320556458)
 
@@ -107,9 +104,6 @@ Victoria, Australia., Nov. 2001
 *Cooperative Simulated Annealing for Multi-Robot Path Planning*, G. Sánchez-Ante, F. Ramos, and J. Frausto, In O. Cairo, L. E. Sucar, and F.J. Cantu (Eds.): MICAI 2000, LNAI 1793, pp. 148-157, 2000.
 Springer-Verlag Berlín Heidelberg.
 
-##BOOKS
-*Fundamentos de Lógica Computacional*, Juan Frausto Solís, Gildardo Sánchez Ante Editorial Trillas, México D.F., Enero 2000, ISBN 968-24-6100-6
-
 *Locally Optimal Path Planning by using Probabilistic Roadmaps and Simulated Annealing*, G. Sánchez-Ante, F. Ramos, and J. Frausto, Proceedings IASTED Robotics and Applications International Conference,
 Santa Barbara, CA, USA. October, 1999.
 
@@ -136,25 +130,3 @@ Honolulu, Hawaii, USA
 *Diseño de Bancos de Información Automatizados y su Empleo para Simulación de Procesos de Pulpa y Papel*. G. Sánchez-Ante, R. Sanjuán, A. Aviña, Memorias IV Jornadas Técnicas de Celulosa y Papel, ATCP Chile, Julio 29 a Agosto 2, 1991, Vol. II, Pág. 730-739, Chile.
 
 *La simulación de Procesos y la Inteligencia Artificial como herramientas en la Industria*, G. Sánchez-Ante, A. Aviña, Revista 'Amatl del IMCyP, Revista 15, Vol. V, Num. 1, Págs. 32-37, Enero- Marzo 1990. Guadalajara, Jalisco.
-
-
-
-
-
-
-
-
-
-
-
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u<a href="{{author.googlescholar}}"my Google Scholar profile</a.</u
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
