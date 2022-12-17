@@ -85,7 +85,7 @@ Mexican Conference on Pattern Recognition, LNCS, 9703, pp. 198-207,
 *Classification of hand movements from non-invasive brain signals using lattice neural networks with dendritic processing*, Leonardo Ojeda, Roberto Vega, Luis Eduardo Falcon Morales, Gildardo Sanchez-Ante, Humberto Sossa and Javier M. Antelis, Proc. 7th Mexican Conference on Pattern Recognition, J.A. Carrasco-Ochoa et al. (Eds.):
 MCPR 2015, LNCS 9116, pp. 23--32, 2015, DOI:[10.1007/978-3-319-19264-2_3](http://dx.doi.org/10.1007/978-3-319-19264-2_3)
 
-*Pattern Analysis in DNA Microarray Data through PCA-Based GeneSelection*, Ricardo Ocampo, Marco A. de Luna, Roberto Vega, GildardoSanchez-Ante, Luis E. Falcon-Morales, and Humberto Sossa, E. Bayro-Corrochano and E. Hancock (Eds.): CIARP 2014, LNCS 8827, pp. 532--539, 2014, DOI:[10.1007/978-3-319-12568-8_65](http://dx.doi.org/10.1007/978-3-319-12568-8_65).
+*Pattern Analysis in DNA Microarray Data through PCA-Based GeneSelection*, Ricardo Ocampo, Marco A. de Luna, Roberto Vega, Gildardo Sanchez-Ante, Luis E. Falcon-Morales, and Humberto Sossa, E. Bayro-Corrochano and E. Hancock (Eds.): CIARP 2014, LNCS 8827, pp. 532--539, 2014, DOI:[10.1007/978-3-319-12568-8_65](http://dx.doi.org/10.1007/978-3-319-12568-8_65).
 
 *Designing a S2-Enterprise (Smart x Sensing) reference model,* Arturo Molina, Pedro Ponce, Miguel Ramirez, Gildardo Sanchez-Ante, L.M. Camarinha-Matos and H. Afsarmanesh (Eds.): PRO-VE 2014, IFIP AICT 434,
 pp. 384--395, 2014,DOI:[10.1007/978-3-662-44745-1_38](http://dx.doi.org/10.1007/978-3-662-44745-1_38).
@@ -95,9 +95,9 @@ Intelligence,LNAI 8265, 2013. DOI:[10.1007/978-3-642-45114-0_42](http://dx.doi.o
 
 *Automatic Reading of Electro-mechanical Utility Meters*, Ricardo Ocampo-Vega, Gildardo Sanchez-Ante, Luis E. Falcón, Humberto Sossa Twelfth Mexican International Conference on Artificial Intelligence, Special Session, Revised Papers, IEEE CPS, pp. 164-170, 2013, DOI: [10.1109/MICAI.2013.28](http://dx.doi.org/10.1109/MICAI.2013.28).
 
-*Multi-robot collective path finding in dynamic environments* Carlos Astengo-Noguez, Gildardo Sánchez-Ante, José Ramón Calzada & Ricardo Sistnett-Hernández Mobile Robots Navigation, InTech Book, March 2010, ISBN 978-953-307-076-6
+*Multi-robot collective path finding in dynamic environments* Carlos Astengo-Noguez, Gildardo Sánchez-Ante, José Ramón Calzada & Ricardo Sisnett-Hernández Mobile Robots Navigation, InTech Book, March 2010, ISBN 978-953-307-076-6
 
-*Collective Methods on Flock Traffic Navigation Based on Negotiation*, Carlos Astengo y Gildardo Sánchez, Proc. Mexican International Conf. on Artificial Intelligence, MICAI 07, Lecture Notes in Computer Science, Vol. 4827, Springer Verlag.2007
+*Collective Methods on Flock Traffic Navigation Based on Negotiation*, Carlos Astengo y Gildardo Sánchez, Proc. Mexican International Conf. on Artificial Intelligence, MICAI 07, Lecture Notes in Computer Science, Vol. 4827, Springer Verlag. 2007
 
 *Multi-Level Free-Space Dilation for Sampling Narrow Passages in PRM Planning* David Hsu, Gildardo Sánchez, Ho-lun Cheng and Jean-Claude Latombe, Proc. 2006 IEEE Int. Conf. on Robotics and Automation, pp. 1255-1260,
 Orlando, Florida, May 2006, DOI:[10.1109/ROBOT.2006.1641881](http://dx.doi.org/10.1109/ROBOT.2006.1641881).
