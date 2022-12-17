@@ -5,7 +5,8 @@ permalink: /books/
 author_profile: true
 ---
 
-#BOOKS
+
+# BOOKS
 
 *Algorithmic Foundations of Robotics XIII*, Proceedings of the 13th Workshop on the Algorithmic Foundations of Robotics, Marco Morales, Lydia Tapia, Gildardo Sánchez-Ante, Seth Hutchinson (Eds), Springer Proceedings in Advanced Robotics, DOI:[https://doi.org/10.1007/978-3-030-44051-0](https://doi.org/10.1007/978-3-030-44051-0), ISBN 978-3-030-44050-3, 2020
 
