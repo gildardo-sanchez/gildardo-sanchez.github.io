@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"","author":"Gildardo Sánchez Ante","subject":"","keywords":"","creator":"Writer","producer":"LibreOffice 7.0","creationdate":"D:20221217195251+01'00'","moddate":"","trapped":"","fileName":"ResearchProjects.pdf","bounds":[[909,1286]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
