@@ -15,8 +15,7 @@ gildardo.sanchez at tec.mx.
 ## Nanomaterials Property Modeling and Optimal Experimental Design
 
 ![Interfaz de usuario gráfica Descripción generada automáticamente con
-confianza media](./media/image1.png){width="5.905555555555556in"
-height="3.2645833333333334in"}
+confianza media](./media/image1.png)
 
 The process to generate a new material is long and costly. By using
 machine learning it is possible to achieve what is called Optimal
@@ -33,8 +32,7 @@ nanomaterials that are studied as possible antibiotics.
 
 ## Robot Motion Planning and Machine Learning
 
-![](./media/image2.png){width="4.500343394575678in"
-height="2.4104965004374455in"}
+![](./media/image2.png)
 
 Motion planning is a fundamental and essential task for the deployment
 of robots in practical applications, and Machine Learning has been
@@ -58,8 +56,7 @@ U.S. Command Army Research Laboratory (ARL).
 
 ## Water properties modeling with Machine Learning
 
-![](./media/image3.png){width="5.905555555555556in"
-height="4.539583333333334in"}
+![](./media/image3.png)
 
 Water level and streamflow are required to answer many important
 hydrological questions such as water distribution, flood and erosion
