@@ -85,15 +85,15 @@ author:
   bio              : "Professor, Computer Science, Tecnologico de Monterrey"
   location         : "Guadalajara, JAL, Mexico"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.mx/citations?hl=es&user=Szx4GcIAAAAJ"
   email            :
-  researchgate     : "https://researchgate.net/profile/gildardo_sanchez-ante"
+  researchgate     : "https://www.researchgate.net/profile/Gildardo-Sanchez-Ante"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "https://www.flickr.com/photos/gildardo/"
+  flickr           : "https://www.flickr.com/photos/gildardo"
   facebook         :
   foursquare       :
   github           : #"academicpages"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCNie-w2GndsNEnz5y7o9yCQ"
+  youtube          : "https://www.youtube.com/@gildardo_sanchez/featured"
   wikipedia        :
 
 
