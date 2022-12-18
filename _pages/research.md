@@ -14,8 +14,7 @@ gildardo.sanchez at tec.mx.
 
 ## Nanomaterials Property Modeling and Optimal Experimental Design
 
-![Interfaz de usuario gráfica Descripción generada automáticamente con
-confianza media](./media/image1.png)
+![](./media/image1.png)
 
 The process to generate a new material is long and costly. By using
 machine learning it is possible to achieve what is called Optimal
