@@ -8,15 +8,8 @@ date:
 location: "Guadalajara, Mexico"
 ---
 
-During the semester August-December 2022, I was teaching the following courses:
-
-## TC2038 Analysis and Design of Algorithms
-======
-
-
+In this place you can find the reports written by the students, with the results of their projects.
 
 ## TC3006C and TC3007C Concentration on Advanced Artificial Intelligence for Data Science
-======
 
-## TC3054 Business Solution Development Capstone Project
-======
+[Reports, December 2022.](/files/ReportsConc2022.pdf) 
