@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/FinalReports
 venue: "Tecnologico de Monterrey, Computer Science Department"
-date:
+date: 2022-19-12
 location: "Guadalajara, Mexico"
 ---
 
