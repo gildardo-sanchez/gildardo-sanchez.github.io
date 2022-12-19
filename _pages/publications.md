@@ -15,7 +15,6 @@ Kaled Corona-Romero, M. Fernanda Rosales-De la Cruz, Diego E. Navarro-López, E
 
 "Influence of erbium doping on zinc oxide nanoparticles: Structural, optical and antimicrobial activity",
 Angélica Lizeth Sánchez-López, Y. Perfecto-Avalos, A. Sanchez-Martinez, O. Ceballos-Sanchez, M. Sepulveda-Villegas, Gabriel Rincón-Enríquez, Vicente, Rodríguez-González, Rebeca Garcia-Varela, L. Marcelo Lozano, Diego Eloyr Navarro-López, Gildardo Sanchez-Ante, Kaled Corona-Romero, Edgar R. López-Mena, *Applied Surface Science*, Volume 575, 2022, 151764, DOI:[*10.1016/j.apsusc.2021.151764*](https://doi.org/10.1016/j.apsusc.2021.151764)
-
 ## 2021
 "Special Issue on the Thirteenth Workshop on the Algorithmic Foundations of Robotics (WAFR) 2018",
 Morales M, Tapia L, Sánchez-Ante G, Hutchinson S., *The International Journal of Robotics Research*. 2021;40(10-11):1047-1048. DOI:[*10.1177/02783649211038*](https://doi.org/10.1177/02783649211038146)
