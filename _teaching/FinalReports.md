@@ -1,5 +1,5 @@
 ---
-title: "Final Reports"
+title: "Teaching"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/FinalReports
@@ -12,4 +12,4 @@ In this place you can find the reports written by the students, with the results
 
 ## TC3006C and TC3007C Concentration on Advanced Artificial Intelligence for Data Science
 
-[Reports, December 2022.](/files/ConcIA2022.pdf) 
+[Reports, December 2022.](/files/ConcIA2022.pdf)

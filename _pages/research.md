@@ -78,3 +78,4 @@ Sampling-based Robot Motion Planning
 {% for post in site.research %}
   {% include archive-single.html %}
 {% endfor %}
+![]()
