@@ -7,10 +7,19 @@ author_profile: true
 
 ## 2023
 
-"What AI Can Do: Strengths and Limitations of Artificial Intelligence", Editores: Manuel Cebral-Loureda, Elvira G. Rincón-Flores, Gildardo Sanchez-Ante, Editorial CRC Press, 2023, 
+"What AI Can Do: Strengths and Limitations of Artificial Intelligence", 
+Editores: Manuel Cebral-Loureda, Elvira G. Rincón-Flores, Gildardo Sanchez-Ante, Editorial CRC Press, 2023, 
 ISBN 1000909034, 9781000909036 (458 páginas) [*Routledge*](https://www.routledge.com/What-AI-Can-Do-Strengths-and-Limitations-of-Artificial-Intelligence/Cebral-Loureda-Rincon-Flores-Sanchez-Ante/p/book/9781032396002)
 
-"Feature Analysis and Selection for Water Stream Modeling", Chavez-Jimenez, C.M., Salazar-Lopez, L.A., Chapman, K., Gilmore, T., Sanchez-Ante, G. (2023). In: Rodríguez-González, A.Y., Pérez-Espinosa, H., Martínez-Trinidad, J.F., Carrasco-Ochoa, J.A., Olvera-López, J.A. (eds) Pattern Recognition. MCPR 2023. Lecture Notes in Computer Science, vol 13902. Springer, Cham.   DOI:[*10.1007/978-3-031-33783-3_1*](https://doi.org/10.1007/978-3-031-33783-3_1)
+"Neural Networks for an Automated Screening System to Detect Anomalies in Retina Images", 
+Sanchez-Ante, G., Falcon-Morales, L.E., Sossa-Azuela, J.H.
+What AI Can Do: Strengths and Limitations of Artificial Intelligence, 2023, pp. 357–371, [Chapter]([https://www.taylorfrancis.com/chapters/edit/10.1201/b23345-21/neural-networks-automated-screening-system-detect-anomalies-retina-images-gildardo-sanchez-ante-luis-falcon-morales-juan-humberto-sossa-azuela])
+
+"Building Predictive Models to Efficiently Generate New Nanomaterials with Antimicrobial Activity", 
+Sanchez-Ante, G., López-Mena, E.R., Navarro-López, D.E. What AI Can Do: Strengths and Limitations of Artificial Intelligence, 2023, pp. 337–355, [Chapter]([https://www.taylorfrancis.com/chapters/edit/10.1201/b23345-20/building-predictive-models-efficiently-generate-new-nanomaterials-antimicrobial-activity-gildardo-sanchez-ante-edgar-l%C3%B3pez-mena-diego-navarro-l%C3%B3pez?context=ubx&refId=5b8ced56-c0b8-400d-8aa9-c1c0aa5d33c6])
+
+"Feature Analysis and Selection for Water Stream Modeling", 
+Chavez-Jimenez, C.M., Salazar-Lopez, L.A., Chapman, K., Gilmore, T., Sanchez-Ante, G. (2023). In: Rodríguez-González, A.Y., Pérez-Espinosa, H., Martínez-Trinidad, J.F., Carrasco-Ochoa, J.A., Olvera-López, J.A. (eds) Pattern Recognition. MCPR 2023. Lecture Notes in Computer Science, vol 13902. Springer, Cham.   DOI:[*10.1007/978-3-031-33783-3_1*](https://doi.org/10.1007/978-3-031-33783-3_1)
 
 
 ## 2022
