@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2023
+
+"What AI Can Do: Strengths and Limitations of Artificial Intelligence", Editores: Manuel Cebral-Loureda, Elvira G. Rincón-Flores, Gildardo Sanchez-Ante, Editorial CRC Press, 2023, 
+ISBN 1000909034, 9781000909036 (458 páginas) [*Routledge*](https://www.routledge.com/What-AI-Can-Do-Strengths-and-Limitations-of-Artificial-Intelligence/Cebral-Loureda-Rincon-Flores-Sanchez-Ante/p/book/9781032396002)
+
+"Feature Analysis and Selection for Water Stream Modeling", Chavez-Jimenez, C.M., Salazar-Lopez, L.A., Chapman, K., Gilmore, T., Sanchez-Ante, G. (2023). In: Rodríguez-González, A.Y., Pérez-Espinosa, H., Martínez-Trinidad, J.F., Carrasco-Ochoa, J.A., Olvera-López, J.A. (eds) Pattern Recognition. MCPR 2023. Lecture Notes in Computer Science, vol 13902. Springer, Cham.   DOI:[*10.1007/978-3-031-33783-3_1*](https://doi.org/10.1007/978-3-031-33783-3_1)
+
+
 ## 2022
 
 "Nanocomposites based on doped ZnO nanoparticles for antibacterial applications",
