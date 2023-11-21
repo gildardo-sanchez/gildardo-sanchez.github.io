@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## 2023
+"Data-Driven Machine Learning to Predict Antibacterial Activity of Cerium-Doped Nanoparticles",
+Yocanxochitl Perfecto-Avalos, Diego E. Navarro-Lopez, Selina Martinez-Beltran, Diego E. Rojas-Torres, Krista D. Suarez Avila, Terry I. Robles, Araceli Zavala, Marco A. de Luna, Araceli Sanchez-Martinez, Oscar Ceballos-Sanchez, Maricruz Sepulveda-Villegas, Gildardo Sanchez-Ante, Naveen Tiwari, and Edgar R. Lopez-Mena, ACS Appl. Nano Mater. 2023, https://doi.org/10.1021/acsanm.3c03651
+
 
 "What AI Can Do: Strengths and Limitations of Artificial Intelligence", 
 Editores: Manuel Cebral-Loureda, Elvira G. Rincón-Flores, Gildardo Sanchez-Ante, Editorial CRC Press, 2023, 
