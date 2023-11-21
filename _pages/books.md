@@ -15,4 +15,11 @@ ISBN 1000909034, 9781000909036 (458 páginas) [*Routledge*](https://www.routledg
 
 ## Chapters in books
 
+*Neural Networks for an Automated Screening System to Detect Anomalies in Retina Images*
+Sanchez-Ante, G., Falcon-Morales, L.E., Sossa-Azuela, J.H. What AI Can Do: Strengths and Limitations of Artificial Intelligence, 2023, pp. 357–371
+
+*Building Predictive Models to Efficiently Generate New Nanomaterials with Antimicrobial Activity*
+Sanchez-Ante, G., López-Mena, E.R., Navarro-López, D.E. What AI Can Do: Strengths and Limitations of Artificial Intelligence, 2023, pp. 337–355
+
+
 *La Universidad como cocreadora del futuro*, José Carlos Vázquez Parra Claudia M. Félix Sandoval Viviana Ortiz Meillón (Eds), Chapter: "Investigación que transforma vidas", ISBN: 9788419376206, 2022
