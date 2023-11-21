@@ -17,8 +17,9 @@ Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal
 
 # PUBLICACIONES EN JOURNALS (JCR)
 
-*Nanocomposites based on doped ZnO nanoparticles for antibacterial applications*, Diego E. Navarro-López, Triana M. Sánchez-Huerta, Mariana S. Flores-Jimenez, Naveen Tiwari, A. Sanchez-Martinez, O.Ceballos-Sanchez, Alejandro Garcia-Gonzalez, Rita Q. Fuentes-Aguilar, Gildardo Sanchez-Ante, Kaled Corona-Romero, Gabriel Rincón-Enríquez,Edgar R. López-Mena, Colloids and Surfaces A, Physicochemical and Engineering Aspects, 652, 129871, (2022),
-<https://doi.org/10.1016/j.colsurfa.2022.129871>
+*Data-Driven Machine Learning to Predict Antibacterial Activity of Cerium-Doped Nanoparticles*, Yocanxochitl Perfecto-Avalos, Diego E. Navarro-Lopez, Selina Martinez-Beltran, Diego E. Rojas-Torres, Krista D. Suarez Avila, Terry I. Robles, Araceli Zavala, Marco A. de Luna, Araceli Sanchez-Martinez, Oscar Ceballos-Sanchez, Maricruz Sepulveda-Villegas, Gildardo Sanchez-Ante, Naveen Tiwari, and Edgar R. Lopez-Mena, ACS Appl. Nano Mater. 2023, https://doi.org/10.1021/acsanm.3c03651
+
+*Nanocomposites based on doped ZnO nanoparticles for antibacterial applications*, Diego E. Navarro-López, Triana M. Sánchez-Huerta, Mariana S. Flores-Jimenez, Naveen Tiwari, A. Sanchez-Martinez, O.Ceballos-Sanchez, Alejandro Garcia-Gonzalez, Rita Q. Fuentes-Aguilar, Gildardo Sanchez-Ante, Kaled Corona-Romero, Gabriel Rincón-Enríquez,Edgar R. López-Mena, Colloids and Surfaces A, Physicochemical and Engineering Aspects, 652, 129871, (2022), *<https://doi.org/10.1016/j.colsurfa.2022.129871>*
 
 *El aprendizaje de máquina y el modelado de propiedades de materiales nanoestructurados,* Kaled Corona-Romero, M. Fernanda Rosales-De la Cruz, Diego E. Navarro-López, Edgar R. López- Mena y Gildardo Sánchez-Ante, Komputer Sapiens, 2022, 14(2), 48-52
 
@@ -133,7 +134,14 @@ Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal
 > Antelis, Artificial Intelligence Research, Vol. 6, No. 1, 2017,
 > DOI:[10.5430/air.v6n1p37](http://dx.doi.org/10.5430/air.v6n1p37)
 
-# PUBLICACIONES EN PROCEEDINGS
+# PUBLICACIONES EN PROCEEDINGS O CAPITULOS DE LIBROS
+
+*Neural Networks for an Automated Screening System to Detect Anomalies in Retina Images*
+Sanchez-Ante, G., Falcon-Morales, L.E., Sossa-Azuela, J.H. What AI Can Do: Strengths and Limitations of Artificial Intelligence, 2023, pp. 357–371
+
+*Building Predictive Models to Efficiently Generate New Nanomaterials with Antimicrobial Activity*
+Sanchez-Ante, G., López-Mena, E.R., Navarro-López, D.E. What AI Can Do: Strengths and Limitations of Artificial Intelligence, 2023, pp. 337–355
+
 
 > *Classification of Motor States from Brain Rhythms Using Lattice
 > Neural Networks*,
