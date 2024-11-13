@@ -4,6 +4,24 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2024
+
+"Exploring the cytotoxic and antioxidant properties of lanthanide-doped ZnO nanoparticles: a study with machine learning interpretation", Jorge L. Mejia-Mendez, Edwin E. Reza-Zaldívar, A. Sanchez-Martinez, O. Ceballos-Sanchez, Diego E. Navarro-López, L. Marcelo Lozano, Juan Armendariz-Borunda, Naveen Tiwari, Daniel A. Jacobo-Velázquez, Gildardo Sanchez-Ante and Edgar R. López-Mena, 2024, Journal of Nanobiotechnology, 22:687, DOI: 10.1186/s12951-024-02957-9
+
+"Enhancing photovoltaic cell design with multilayer sequential neural networks: a study on Neodymium-doped ZnO nanoparticles", Rogelio A Léon-García, Ernesto Rojas-Pablos, Jorge L Mejía-Méndez, Araceli Sanchez-Martinez, Diego E Navarro-López, Angélica Lizeth Sánchez-López, Luis Marcelo Lozano, Oscar Ceballos-Sanchez, Edgar R López-Mena, Gildardo Sanchez-Ante, 2024, Chemical Engineering Journal Advances, 100669
+
+"Kalanchoe tomentosa: Phytochemical Profiling, and Evaluation of Its Biological Activities In Vitro, In Vivo, and In Silico", Jorge L Mejía-Méndez, Gildardo Sánchez-Ante, Yulianna Minutti-Calva, Karen Schürenkämper-Carrillo, Diego E Navarro-López, Ricardo E Buendía-Corona, Ma del Carmen Ángeles González-Chávez, Angélica Lizeth Sánchez-López, J Daniel Lozada-Ramírez, Eugenio Sánchez-Arreola, Edgar R López-Mena, 2024, Pharmaceuticals 17 (8)
+
+"Green Synthesis of Silver Nanoparticles with Extracts from Kalanchoe fedtschenkoi: Characterization and Bioactivities",  Jorge L Mejía-Méndez, Gildardo Sánchez-Ante, Mónica Cerro-López, Yulianna Minutti-Calva, Diego E Navarro-López, J Daniel Lozada-Ramírez, Horacio Bach, Edgar R López-Mena, Eugenio Sánchez-Arreola, 2024, Biomolecules 14 (7), 782
+
+"Enhancing antioxidant properties of CeO2 nanoparticles with Nd3+ doping: structural, biological, and machine learning insights", Oscar Ceballos-Sanchez, Diego E. Navarro-López, 
+Jorge L. Mejía-Méndez, Gildardo Sanchez-Ante, Vicente Rodríguez-González, Angélica Lizeth Sánchez-López, Araceli Sanchez-Martinez, Sergio M. Duron-Torres, Karla Juarez-Moreno, Naveen Tiwari and Edgar R. López-Mena, Biomaterials Science, 2024, DOI: 10.1039/d3bm02107f
+
+"Lanthanide-Doped ZnO Nanoparticles: Unraveling Their Role in Cytotoxicity, Antioxidant Capacity, and Nanotoxicology", Jorge L. Mejía-Méndez, Diego E. Navarro-López, Araceli Sanchez-Martinez, Oscar Ceballos-Sanchez, Luis Eduardo Garcia-Amezquita, Naveen Tiwari, Karla Juarez-Moreno, Gildardo Sanchez-Ante and Edgar R. López-Mena, Antioxidants 2024, 13, 213. https://doi.org/10.3390/antiox13020213
+
+"Unraveling the Complex Interactions: Machine Learning Approaches to Predict Bacterial Survival against ZnO and Lanthanum-Doped ZnO Nanoparticles", Diego E. Navarro-López, Yocanxóchitl Perfecto-Avalos, Araceli Zavala, Marco A. de Luna, Araceli Sanchez-Martinez, Oscar Ceballos-Sanchez, Naveen Tiwari, Edgar R. López-Mena and Gildardo Sanchez-Ante, Antibiotics 2024, 13, 220. https://doi.org/10.3390/antibiotics13030220
+
+
 
 ## 2023
 "Data-Driven Machine Learning to Predict Antibacterial Activity of Cerium-Doped Nanoparticles",
