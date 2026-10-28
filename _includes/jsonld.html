@@ -1,0 +1,19 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": {{ site.name | jsonify }},
+  "honorificPrefix": "Dr.",
+  "jobTitle": {{ site.position | jsonify }},
+  "url": {{ site.url | append: site.baseurl | jsonify }},
+  {% if site.email != "" %}"email": {{ site.email | prepend: "mailto:" | jsonify }},{% endif %}
+  "worksFor": { "@type": "CollegeOrUniversity", "name": "Tecnológico de Monterrey", "url": {{ site.affiliation_url | jsonify }} },
+  "alumniOf": [
+    { "@type": "CollegeOrUniversity", "name": "Tecnológico de Monterrey" },
+    { "@type": "CollegeOrUniversity", "name": "Universidad de Guadalajara" }
+  ],
+  "knowsAbout": ["Machine learning", "Nanomaterials informatics", "Precision agriculture", "Biomedical signal processing", "Robot motion planning"],
+  "identifier": { "@type": "PropertyValue", "propertyID": "ORCID", "value": "0000-0003-3666-0855" },
+  "sameAs": {{ site.profiles | map: "url" | jsonify }}
+}
+</script>

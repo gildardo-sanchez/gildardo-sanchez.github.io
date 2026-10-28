@@ -1,0 +1,15 @@
+# Cursos. Actualiza "current" con lo que impartes este periodo.
+current: []
+#  - { name: "Aprendizaje automático", level: "Posgrado", term: "Ago–Dic 2026", url: "" }
+
+past:
+  - { name: "Inteligencia artificial", level: "Licenciatura" }
+  - { name: "Estructuras de datos", level: "Licenciatura" }
+  - { name: "Lenguaje C", level: "Licenciatura" }
+  - { name: "Métodos numéricos", level: "Licenciatura" }
+  - { name: "Lógica computacional", level: "Maestría en Ciencias Computacionales (Universidad Virtual)" }
+  - { name: "Paradigma orientado a objetos y técnicas de programación", level: "Maestría en Administración de Tecnologías de Información" }
+
+materials:
+  - { title: "Fundamentos de Lógica Computacional", note: "Libro de texto con J. Frausto Solís, Editorial Trillas, 2000" }
+  - { title: "What AI Can Do: Strengths and Limitations of Artificial Intelligence", note: "Coeditor, CRC Press, 2023" }

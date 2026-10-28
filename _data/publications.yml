@@ -1,0 +1,649 @@
+# ─────────────────────────────────────────────────────────────
+#  Publicaciones. Mantén el orden por año, de la más reciente a la más antigua.
+#
+#  title:    título
+#  authors:  autores separados por "; "  (escribe tu nombre como G. Sánchez-Ante
+#            para que se resalte)
+#  venue:    revista, congreso o libro (con volumen y páginas si los tienes)
+#  year:     año
+#  type:     journal | conference | chapter | book | editorial | outreach
+#  line:     nano | agro | salud | robotica | ia   (ver research.yml)
+#  doi:      DOI sin "https://doi.org/"   (opcional)
+#  url:      liga alternativa si no hay DOI (opcional)
+#  pdf:      ruta a un PDF propio, p. ej. /assets/papers/x.pdf (opcional)
+#  code:     liga a repositorio de código (opcional)
+#  selected: true   → aparece como destacada
+# ─────────────────────────────────────────────────────────────
+
+# 2026
+- title: "Explainability-Guided Transformer-Based Anomaly Screening in Agave Crops"
+  authors: "D. Villatoro-Gerónimo; L. E. Falcón-Morales; G. Sánchez-Ante"
+  venue: "Computers and Electronics in Agriculture"
+  year: 2026
+  type: journal
+  line: agro
+  selected: true
+
+- title: "Shadow Attenuation in UAV Multispectral Imaging for Enhanced Agave Segmentation"
+  authors: "D. Villatoro-Gerónimo; G. Sánchez-Ante; L. E. Falcón-Morales"
+  venue: "Advances in Soft Computing, MICAI 2025, LNCS 16222, Springer"
+  year: 2026
+  type: conference
+  line: agro
+  doi: "10.1007/978-3-032-09044-7_22"
+
+- title: "Artificial Intelligence in the Diagnosis, Treatment, and Management of Rare Diseases: Opportunities and Challenges from a Latin American Perspective"
+  authors: "M. A. Parra-Vilchis; A. F. Garibaldi-Ríos; M. P. Gallegos-Arreola; A. Alonzo-Rojo; G. Sánchez-Ante; J. E. García-Ortiz"
+  venue: "Archives of Medical Research 57(8), 103518"
+  year: 2026
+  type: journal
+  line: salud
+  doi: "10.1016/j.arcmed.2026.103518"
+  selected: true
+
+- title: "ZnTiO₃/BiOCl Nanostructures for UV-Driven Hydrogen Production and Degradation of Rhodamine B"
+  authors: "O. Ceballos-Sánchez; C. I. Koop-Santa; I. Juárez-Ramírez; E. R. López-Mena; S. M. Durón-Torres; G. Sánchez-Ante; A. Sánchez-Martínez"
+  venue: "ACS Applied Nano Materials 9(33), 15756–15771"
+  year: 2026
+  type: journal
+  line: nano
+  doi: "10.1021/acsanm.6c02074"
+
+- title: "The Gut Microbiota in Addiction Biology: A Systematic Review of Substance-Induced Dysbiosis and Gut–Brain Axis Alterations"
+  authors: "J. Esparza-Sánchez; D. A. Garibi-Miranda; M. Chávez-Tinoco; J. L. Mejía-Méndez; M. Sepúlveda-Villegas; G. Sánchez-Ante; A. L. Sánchez-López"
+  venue: "Medical Sciences 14, 367"
+  year: 2026
+  type: journal
+  line: salud
+  doi: "10.3390/medsci14030367"
+
+- title: "AI-Driven Design and Comparative Evaluation of SNEDDS for the Optimized Nanoencapsulation of Phytoextracts"
+  authors: "C. G. Prieto-Medrano; G. Sánchez-Ante; A. Zavala; A. L. Sánchez-López; A. Cavazos-Garduño; A. K. Carrillo-Pérez; R. García-Varela; Y. Perfecto-Avalos"
+  venue: "Nanomaterials 16, 793"
+  year: 2026
+  type: journal
+  line: nano
+  doi: "10.3390/nano16130793"
+
+- title: "From Sonochemical Synthesis to Predictive Modeling: Unraveling the Antioxidant Properties of La-Doped CeO₂ Nanoparticles"
+  authors: "J. L. Mejía-Méndez; E. E. Reza-Zaldívar; D. E. Navarro-López; A. Sánchez-Martínez; O. Ceballos-Sánchez; M. Badillo; A. L. Sánchez-López; M. José-Yacamán; D. A. Jacobo-Velázquez; E. R. López-Mena; G. Sánchez-Ante"
+  venue: "Ultrasonics Sonochemistry 124, 107704"
+  year: 2026
+  type: journal
+  line: nano
+  doi: "10.1016/j.ultsonch.2025.107704"
+
+# 2025
+- title: "Bit-STED: A Lightweight Transformer for Accurate Agave Counting with UAV Imagery"
+  authors: "D. Villatoro-Gerónimo; G. Sánchez-Ante; L. E. Falcón-Morales"
+  venue: "Computers and Electronics in Agriculture 239, 111047"
+  year: 2025
+  type: journal
+  line: agro
+  doi: "10.1016/j.compag.2025.111047"
+  selected: true
+
+- title: "Optimizing Machine Learning Models for Cytotoxicity Prediction in Lanthanide-Doped Nanomaterials: A Data-Driven Approach for Minimizing Environmental Hazards"
+  authors: "E. E. Reza-Zaldívar; J. L. Mejía-Méndez; D. E. Navarro-López; A. Sánchez-Martínez; O. Ceballos-Sánchez; V. Rodríguez-González; M. I. Jiménez-Pérez; L. M. Lozano; J. Armendáriz-Borunda; D. A. Jacobo-Velázquez; G. Sánchez-Ante; E. R. López-Mena"
+  venue: "Journal of Hazardous Materials 499, 140094"
+  year: 2025
+  type: journal
+  line: nano
+  doi: "10.1016/j.jhazmat.2025.140094"
+  selected: true
+
+- title: "From Bench to Greenhouse: The Comparative Nano-Bio System Effects of Green-Synthesized TiO₂-NPs and Plant-Growth-Promoting Microorganisms in Capsicum annuum"
+  authors: "A. Bhatti; J. L. Mejía-Méndez; S. S. Mahmoud; A. Sánchez-Martínez; G. Sánchez-Ante; J. M. Silva-Jara; E. Sánchez-Arreola; L. M. Lozano; G. Tortella; E. R. López-Mena; et al."
+  venue: "Plants 14, 3672"
+  year: 2025
+  type: journal
+  line: nano
+  doi: "10.3390/plants14233672"
+
+- title: "Impact of Combined Exposure to Copper Nanoparticles, Copper Oxide Nanoparticles, and Pesticides on the Metabolic Activity of Nitrobacter winogradskyi"
+  authors: "R. Gajardo; O. Rubilar; E. R. López-Mena; G. Sánchez-Ante; P. Fincheira; M. Martínez; M. Schoebitz; R. Tighe-Neira; C. Inostroza-Blancheteau; L. Bardelhe; G. Tortella-Fuentes"
+  venue: "International Journal of Molecular Sciences 26(13), 6391"
+  year: 2025
+  type: journal
+  line: nano
+  doi: "10.3390/ijms26136391"
+
+- title: "Synergistic Effect of TiO₂-Nanoparticles and Plant Growth-Promoting Microorganisms on the Physiological Parameters and Antioxidant Responses of Capsicum annum Cultivars"
+  authors: "A. Bhatti; A. Sánchez-Martínez; G. Sánchez-Ante; D. A. Jacobo-Velázquez; J. A. Qui-Zapata; S. S. Mahmoud; G. M. Channa; L. M. Lozano; J. L. Mejía-Méndez; E. R. López-Mena; D. E. Navarro-López"
+  venue: "Antioxidants 14(6), 707"
+  year: 2025
+  type: journal
+  line: nano
+  doi: "10.3390/antiox14060707"
+
+- title: "Microbial Signatures of Addiction: A Computational Analysis of Gut Microbiota in Substance Use Disorders"
+  authors: "J. E. Sánchez; M. A. P. Vilchis; D. A. G. Miranda; M. Sepúlveda-Villegas; A. L. Sánchez-López; G. Sánchez-Ante"
+  venue: "IEEE 38th International Symposium on Computer-Based Medical Systems (CBMS), Madrid, pp. 563–566"
+  year: 2025
+  type: conference
+  line: salud
+  doi: "10.1109/CBMS65348.2025.00120"
+
+- title: "Nanomaterials for the Treatment of Lung Cancer: The Role of Natural Products"
+  authors: "L. F. Salomé-Abarca; et al."
+  venue: "Challenges in Solid Tumors and Other Cancers: An Interdisciplinary Approach (N. Rezaei, ed.), Interdisciplinary Cancer Research vol. 21, Springer"
+  year: 2025
+  type: chapter
+  line: nano
+  doi: "10.1007/16833_2024_492"
+
+# 2024
+- title: "Modeling and Design of Architected Structures and Metamaterials Assisted with Artificial Intelligence"
+  authors: "A. Mora; G. Herrera-Ramos; D. L. Ramírez-Gutiérrez; G. Sánchez-Ante; R. Batres; A. Román-Flores; R. Q. Fuentes-Aguilar; A. Molina; E. Cuan-Urquizo"
+  venue: "Materials Research Express 11(12)"
+  year: 2024
+  type: journal
+  line: nano
+  doi: "10.1088/2053-1591/ad9dbc"
+
+- title: "Exploring the Cytotoxic and Antioxidant Properties of Lanthanide-Doped ZnO Nanoparticles: A Study with Machine Learning Interpretation"
+  authors: "J. L. Mejía-Méndez; E. E. Reza-Zaldívar; A. Sánchez-Martínez; O. Ceballos-Sánchez; D. E. Navarro-López; L. M. Lozano; J. Armendáriz-Borunda; N. Tiwari; D. A. Jacobo-Velázquez; G. Sánchez-Ante; E. R. López-Mena"
+  venue: "Journal of Nanobiotechnology 22, 687"
+  year: 2024
+  type: journal
+  line: nano
+  doi: "10.1186/s12951-024-02957-9"
+  selected: true
+
+- title: "Enhancing Photovoltaic Cell Design with Multilayer Sequential Neural Networks: A Study on Neodymium-Doped ZnO Nanoparticles"
+  authors: "R. A. León-García; E. Rojas-Pablos; J. L. Mejía-Méndez; A. Sánchez-Martínez; D. E. Navarro-López; A. L. Sánchez-López; L. M. Lozano; O. Ceballos-Sánchez; E. R. López-Mena; G. Sánchez-Ante"
+  venue: "Chemical Engineering Journal Advances, 100669"
+  year: 2024
+  type: journal
+  line: nano
+  doi: "10.1016/j.ceja.2024.100669"
+
+- title: "Kalanchoe tomentosa: Phytochemical Profiling, and Evaluation of Its Biological Activities In Vitro, In Vivo, and In Silico"
+  authors: "J. L. Mejía-Méndez; G. Sánchez-Ante; Y. Minutti-Calva; K. Schürenkämper-Carrillo; D. E. Navarro-López; R. E. Buendía-Corona; M. C. Á. González-Chávez; A. L. Sánchez-López; J. D. Lozada-Ramírez; E. Sánchez-Arreola; E. R. López-Mena"
+  venue: "Pharmaceuticals 17(8)"
+  year: 2024
+  type: journal
+  line: salud
+  doi: "10.3390/ph17081051"
+
+- title: "Green Synthesis of Silver Nanoparticles with Extracts from Kalanchoe fedtschenkoi: Characterization and Bioactivities"
+  authors: "J. L. Mejía-Méndez; G. Sánchez-Ante; M. Cerro-López; Y. Minutti-Calva; D. E. Navarro-López; J. D. Lozada-Ramírez; H. Bach; E. R. López-Mena; E. Sánchez-Arreola"
+  venue: "Biomolecules 14(7), 782"
+  year: 2024
+  type: journal
+  line: nano
+  doi: "10.3390/biom14070782"
+
+- title: "Enhancing Antioxidant Properties of CeO₂ Nanoparticles with Nd³⁺ Doping: Structural, Biological, and Machine Learning Insights"
+  authors: "O. Ceballos-Sánchez; D. E. Navarro-López; J. L. Mejía-Méndez; G. Sánchez-Ante; V. Rodríguez-González; A. L. Sánchez-López; A. Sánchez-Martínez; S. M. Durón-Torres; K. Juárez-Moreno; N. Tiwari; E. R. López-Mena"
+  venue: "Biomaterials Science"
+  year: 2024
+  type: journal
+  line: nano
+  doi: "10.1039/d3bm02107f"
+
+- title: "Lanthanide-Doped ZnO Nanoparticles: Unraveling Their Role in Cytotoxicity, Antioxidant Capacity, and Nanotoxicology"
+  authors: "J. L. Mejía-Méndez; D. E. Navarro-López; A. Sánchez-Martínez; O. Ceballos-Sánchez; L. E. García-Amezquita; N. Tiwari; K. Juárez-Moreno; G. Sánchez-Ante; E. R. López-Mena"
+  venue: "Antioxidants 13, 213"
+  year: 2024
+  type: journal
+  line: nano
+  doi: "10.3390/antiox13020213"
+
+- title: "Unraveling the Complex Interactions: Machine Learning Approaches to Predict Bacterial Survival against ZnO and Lanthanum-Doped ZnO Nanoparticles"
+  authors: "D. E. Navarro-López; Y. Perfecto-Avalos; A. Zavala; M. A. de Luna; A. Sánchez-Martínez; O. Ceballos-Sánchez; N. Tiwari; E. R. López-Mena; G. Sánchez-Ante"
+  venue: "Antibiotics 13, 220"
+  year: 2024
+  type: journal
+  line: nano
+  doi: "10.3390/antibiotics13030220"
+
+- title: "Machine Learning-Guided Production of a Self-Nanoemulsifying System for Delivery of Anacardic Acid"
+  authors: "C. Prieto-Medrano; R. García-Varela; G. Sánchez-Ante; A. Zavala-Martínez; A. Sánchez-López; A. Cavazos-Garduño; Y. Perfecto-Avalos"
+  venue: "IEEE 14th International Conference Nanomaterials: Applications & Properties (NAP)"
+  year: 2024
+  type: conference
+  line: nano
+
+# 2023
+- title: "Data-Driven Machine Learning to Predict Antibacterial Activity of Cerium-Doped Nanoparticles"
+  authors: "Y. Perfecto-Avalos; D. E. Navarro-López; S. Martínez-Beltrán; D. E. Rojas-Torres; K. D. Suárez-Ávila; T. I. Robles; A. Zavala; M. A. de Luna; A. Sánchez-Martínez; O. Ceballos-Sánchez; M. Sepúlveda-Villegas; G. Sánchez-Ante; N. Tiwari; E. R. López-Mena"
+  venue: "ACS Applied Nano Materials"
+  year: 2023
+  type: journal
+  line: nano
+  doi: "10.1021/acsanm.3c03651"
+
+- title: "What AI Can Do: Strengths and Limitations of Artificial Intelligence"
+  authors: "M. Cebral-Loureda; E. G. Rincón-Flores; G. Sánchez-Ante"
+  venue: "CRC Press (editores), 458 pp., ISBN 9781000909036"
+  year: 2023
+  type: book
+  line: ia
+  selected: true
+
+- title: "Neural Networks for an Automated Screening System to Detect Anomalies in Retina Images"
+  authors: "G. Sánchez-Ante; L. E. Falcón-Morales; J. H. Sossa-Azuela"
+  venue: "What AI Can Do: Strengths and Limitations of Artificial Intelligence, CRC Press, pp. 357–371"
+  year: 2023
+  type: chapter
+  line: salud
+
+- title: "Building Predictive Models to Efficiently Generate New Nanomaterials with Antimicrobial Activity"
+  authors: "G. Sánchez-Ante; E. R. López-Mena; D. E. Navarro-López"
+  venue: "What AI Can Do: Strengths and Limitations of Artificial Intelligence, CRC Press, pp. 337–355"
+  year: 2023
+  type: chapter
+  line: nano
+
+- title: "Feature Analysis and Selection for Water Stream Modeling"
+  authors: "C. M. Chávez-Jiménez; L. A. Salazar-López; K. Chapman; T. Gilmore; G. Sánchez-Ante"
+  venue: "Pattern Recognition, MCPR 2023, LNCS 13902, Springer"
+  year: 2023
+  type: conference
+  line: agro
+  doi: "10.1007/978-3-031-33783-3_1"
+
+# 2022
+- title: "Nanocomposites Based on Doped ZnO Nanoparticles for Antibacterial Applications"
+  authors: "D. E. Navarro-López; T. M. Sánchez-Huerta; M. S. Flores-Jiménez; N. Tiwari; A. Sánchez-Martínez; O. Ceballos-Sánchez; A. García-González; R. Q. Fuentes-Aguilar; G. Sánchez-Ante; K. Corona-Romero; G. Rincón-Enríquez; E. R. López-Mena"
+  venue: "Colloids and Surfaces A: Physicochemical and Engineering Aspects 652, 129871"
+  year: 2022
+  type: journal
+  line: nano
+  doi: "10.1016/j.colsurfa.2022.129871"
+
+- title: "Influence of Erbium Doping on Zinc Oxide Nanoparticles: Structural, Optical and Antimicrobial Activity"
+  authors: "A. L. Sánchez-López; Y. Perfecto-Avalos; A. Sánchez-Martínez; O. Ceballos-Sánchez; M. Sepúlveda-Villegas; G. Rincón-Enríquez; V. Rodríguez-González; R. García-Varela; L. M. Lozano; D. E. Navarro-López; G. Sánchez-Ante; K. Corona-Romero; E. R. López-Mena"
+  venue: "Applied Surface Science 575, 151764"
+  year: 2022
+  type: journal
+  line: nano
+  doi: "10.1016/j.apsusc.2021.151764"
+
+- title: "El aprendizaje de máquina y el modelado de propiedades de materiales nanoestructurados"
+  authors: "K. Corona-Romero; M. F. Rosales-De la Cruz; D. E. Navarro-López; E. R. López-Mena; G. Sánchez-Ante"
+  venue: "Komputer Sapiens 14(2), 48–52"
+  year: 2022
+  type: outreach
+  line: nano
+
+# 2021
+- title: "Special Issue on the Thirteenth Workshop on the Algorithmic Foundations of Robotics (WAFR) 2018"
+  authors: "M. Morales; L. Tapia; G. Sánchez-Ante; S. Hutchinson"
+  venue: "The International Journal of Robotics Research 40(10-11), 1047–1048"
+  year: 2021
+  type: editorial
+  line: robotica
+  doi: "10.1177/02783649211038146"
+
+- title: "Guest Editorial: Special Issue on the 2018 Workshop on the Algorithmic Foundations of Robotics (WAFR)"
+  authors: "L. Tapia; M. Morales; S. Hutchinson; G. Sánchez-Ante"
+  venue: "IEEE Transactions on Automation Science and Engineering 18(3), 863"
+  year: 2021
+  type: editorial
+  line: robotica
+  doi: "10.1109/TASE.2021.3076247"
+
+- title: "Effective Antimicrobial Activity of ZnO and Yb-Doped ZnO Nanoparticles against Staphylococcus aureus and Escherichia coli"
+  authors: "D. E. Navarro-López; O. Ceballos-Sánchez; A. Sánchez-Martínez; R. García-Varela; G. Sánchez-Ante; K. Corona-Romero; D. Buentello-Montoya; A. Elías-Zúñiga; E. R. López-Mena"
+  venue: "Materials Science & Engineering C 123, 112004"
+  year: 2021
+  type: journal
+  line: nano
+  doi: "10.1016/j.msec.2021.112004"
+
+# 2020
+- title: "The Effect of Yb Doping on ZnO Thin Films Obtained via a Low-Temperature Spin Coating Method"
+  authors: "E. R. López-Mena; O. Ceballos-Sánchez; T. J. N. Hooper; et al."
+  venue: "Journal of Materials Science: Materials in Electronics"
+  year: 2020
+  type: journal
+  line: nano
+  doi: "10.1007/s10854-020-04785-7"
+
+# 2019
+- title: "Discriminant Analysis and Machine Learning Approach for Evaluating and Improving the Performance of Immunohistochemical Algorithms for COO Classification of DLBCL"
+  authors: "Y. Perfecto-Avalos; A. García-González; A. Hernández-Reynoso; G. Sánchez-Ante; C. Ortiz-Hidalgo; S. P. Scott; R. Q. Fuentes-Aguilar; R. Díaz-Domínguez; G. León-Martínez; V. Velasco-Vales; M. A. Cárdenas-Escudero; J. A. Hernández-Hernández; A. Santos; J. R. Borbolla-Escoboza; L. Villela"
+  venue: "Journal of Translational Medicine 17(1), 198"
+  year: 2019
+  type: journal
+  line: salud
+  doi: "10.1186/s12967-019-1951-y"
+
+# 2018
+- title: "Dendrite Morphological Neural Networks for Motor Task Recognition from Electroencephalographic Signals"
+  authors: "J. M. Antelis; B. Gudiño-Mendoza; L. E. Falcón-Morales; G. Sánchez-Ante; H. Sossa"
+  venue: "Biomedical Signal Processing and Control 44, 12–24"
+  year: 2018
+  type: journal
+  line: salud
+  doi: "10.1016/j.bspc.2018.03.010"
+
+# 2017
+- title: "Image Segmentation by Minimum Cross Entropy Using Evolutionary Methods"
+  authors: "D. Oliva; S. Hinojosa; V. Osuna-Enciso; E. Cuevas; M. Pérez-Cisneros; G. Sánchez-Ante"
+  venue: "Soft Computing"
+  year: 2017
+  type: journal
+  line: ia
+  doi: "10.1007/s00500-017-2794-1"
+
+- title: "Adaptive Simulated Annealing for Tuning PID Controllers"
+  authors: "L. F. Fraga-González; R. Q. Fuentes-Aguilar; A. García-González; G. Sánchez-Ante"
+  venue: "AI Communications"
+  year: 2017
+  type: journal
+  line: ia
+  doi: "10.3233/AIC-170741"
+
+- title: "A Community Perspective on Resilience Analytics: A Visual Analysis of Community Mood"
+  authors: "A. López-Cuevas; J. Ramírez-Márquez; G. Sánchez-Ante; K. Barker"
+  venue: "Risk Analysis"
+  year: 2017
+  type: journal
+  line: ia
+  doi: "10.1111/risa.12788"
+
+- title: "Assessment of Feature Selection and Classification Methods for Recognizing Motor Imagery Tasks from Electroencephalographic Signals"
+  authors: "R. Vega; T. Sajed; K. W. Mathewson; K. Khare; P. M. Pilarski; R. Greiner; G. Sánchez-Ante; J. M. Antelis"
+  venue: "Artificial Intelligence Research 6(1)"
+  year: 2017
+  type: journal
+  line: salud
+  doi: "10.5430/air.v6n1p37"
+
+# 2016
+- title: "Detecting the Intention to Move Upper Limbs from Electroencephalographic Brain Signals"
+  authors: "B. Gudiño-Mendoza; G. Sánchez-Ante; J. M. Antelis"
+  venue: "Computational and Mathematical Methods in Medicine, 3195373"
+  year: 2016
+  type: journal
+  line: salud
+  doi: "10.1155/2016/3195373"
+
+- title: "Improving Pattern Classification of DNA Microarray Data by Using PCA and Logistic Regression"
+  authors: "R. Ocampo-Vega; G. Sánchez-Ante; M. A. de Luna; R. Vega; L. E. Falcón-Morales; H. Sossa"
+  venue: "Intelligent Data Analysis 20(s1), S53–S67"
+  year: 2016
+  type: journal
+  line: salud
+  doi: "10.3233/IDA-160845"
+
+- title: "Molecular Subtype Classification of Diffuse Large B-Cell Lymphoma by Immunohistochemical Algorithms and Automatic Supervised Classifiers"
+  authors: "Y. Perfecto-Avalos; L. Villela; A. García-González; A. G. Hernández-Reynoso; G. Sánchez-Ante; R. Q. Fuentes-Aguilar; S. Scott; C. Ortiz-Hidalgo; J. Borbolla-Escoboza"
+  venue: "Blood 128, 4229"
+  year: 2016
+  type: journal
+  line: salud
+  url: "http://www.bloodjournal.org/content/128/22/4229"
+
+- title: "Hemodynamic Pattern Recognition during the Deception Process Using Functional Near Infrared Spectroscopy"
+  authors: "R. Vega; A. G. Hernández-Reynoso; E. Kellison-Linn; R. Q. Fuentes-Aguilar; G. Sánchez-Ante; A. Santos-García; A. García-González"
+  venue: "Journal of Medical and Biological Engineering 36(1), 22–31"
+  year: 2016
+  type: journal
+  line: salud
+  doi: "10.1007/s40846-016-0103-6"
+
+- title: "Classification of Motor States from Brain Rhythms Using Lattice Neural Networks"
+  authors: "B. Gudiño-Mendoza; H. Sossa; G. Sánchez-Ante; J. M. Antelis"
+  venue: "8th Mexican Conference on Pattern Recognition (MCPR), LNCS 9703, pp. 303–312"
+  year: 2016
+  type: conference
+  line: salud
+  doi: "10.1007/978-3-319-39393-3_30"
+
+- title: "Automatic Construction of Radial-Basis Function Networks through an Adaptive Partition Algorithm"
+  authors: "R. Ocampo-Vega; G. Sánchez-Ante; L. E. Falcón-Morales; H. Sossa"
+  venue: "8th Mexican Conference on Pattern Recognition (MCPR), LNCS 9703, pp. 198–207"
+  year: 2016
+  type: conference
+  line: ia
+  doi: "10.1007/978-3-319-39393-3_20"
+
+# 2015
+- title: "Retinal Vessel Extraction Using Lattice Neural Networks with Dendritic Processing"
+  authors: "R. Vega; G. Sánchez-Ante; L. E. Falcón-Morales; H. Sossa; E. Guevara"
+  venue: "Computers in Biology and Medicine 58, 20–30"
+  year: 2015
+  type: journal
+  line: salud
+  doi: "10.1016/j.compbiomed.2014.12.016"
+  selected: true
+
+- title: "Modified Binary Inertial Particle Swarm Optimization for Gene Selection in DNA Microarray Data"
+  authors: "C. Garibay; G. Sánchez-Ante; L. E. Falcón-Morales; H. Sossa"
+  venue: "7th Mexican Conference on Pattern Recognition (MCPR), LNCS 9116, pp. 271–281"
+  year: 2015
+  type: conference
+  line: salud
+  doi: "10.1007/978-3-319-19264-2_26"
+
+- title: "Classification of Hand Movements from Non-Invasive Brain Signals Using Lattice Neural Networks with Dendritic Processing"
+  authors: "L. Ojeda; R. Vega; L. E. Falcón-Morales; G. Sánchez-Ante; H. Sossa; J. M. Antelis"
+  venue: "7th Mexican Conference on Pattern Recognition (MCPR), LNCS 9116, pp. 23–32"
+  year: 2015
+  type: conference
+  line: salud
+  doi: "10.1007/978-3-319-19264-2_3"
+
+# 2014
+- title: "Pattern Analysis in DNA Microarray Data through PCA-Based Gene Selection"
+  authors: "R. Ocampo-Vega; M. A. de Luna; R. Vega; G. Sánchez-Ante; L. E. Falcón-Morales; H. Sossa"
+  venue: "CIARP 2014, LNCS 8827, pp. 532–539"
+  year: 2014
+  type: conference
+  line: salud
+  doi: "10.1007/978-3-319-12568-8_65"
+
+- title: "Designing a S2-Enterprise (Smart × Sensing) Reference Model"
+  authors: "A. Molina; P. Ponce; M. Ramírez; G. Sánchez-Ante"
+  venue: "PRO-VE 2014, IFIP AICT 434, pp. 384–395"
+  year: 2014
+  type: conference
+  line: ia
+  doi: "10.1007/978-3-662-44745-1_38"
+
+# 2013
+- title: "Blood Vessel Segmentation in Retinal Images Using Lattice Neural Networks"
+  authors: "R. Vega; E. Guevara; L. E. Falcón-Morales; G. Sánchez-Ante; H. Sossa"
+  venue: "MICAI 2013, LNAI 8265"
+  year: 2013
+  type: conference
+  line: salud
+  doi: "10.1007/978-3-642-45114-0_42"
+
+- title: "Automatic Reading of Electro-Mechanical Utility Meters"
+  authors: "R. Ocampo-Vega; G. Sánchez-Ante; L. E. Falcón-Morales; H. Sossa"
+  venue: "12th Mexican International Conference on Artificial Intelligence (MICAI), IEEE CPS, pp. 164–170"
+  year: 2013
+  type: conference
+  line: ia
+  doi: "10.1109/MICAI.2013.28"
+
+# 2010 y anteriores
+- title: "Multi-Robot Collective Path Finding in Dynamic Environments"
+  authors: "C. Astengo-Noguez; G. Sánchez-Ante; J. R. Calzada; R. Sisnett-Hernández"
+  venue: "Mobile Robots Navigation, InTech, ISBN 978-953-307-076-6"
+  year: 2010
+  type: chapter
+  line: robotica
+
+- title: "Collective Methods on Flock Traffic Navigation Based on Negotiation"
+  authors: "C. Astengo-Noguez; G. Sánchez-Ante"
+  venue: "MICAI 2007, LNCS 4827, Springer"
+  year: 2007
+  type: conference
+  line: robotica
+
+- title: "Planning Tours of Robotic Arms among Partitioned Goals"
+  authors: "M. Saha; G. Sánchez-Ante; J.-C. Latombe; T. Roughgarden"
+  venue: "The International Journal of Robotics Research 25(3), 207–223"
+  year: 2006
+  type: journal
+  line: robotica
+  doi: "10.1177/0278364906061705"
+  selected: true
+
+- title: "Multi-Level Free-Space Dilation for Sampling Narrow Passages in PRM Planning"
+  authors: "D. Hsu; G. Sánchez-Ante; H.-L. Cheng; J.-C. Latombe"
+  venue: "IEEE International Conference on Robotics and Automation (ICRA), Orlando, pp. 1255–1260"
+  year: 2006
+  type: conference
+  line: robotica
+  doi: "10.1109/ROBOT.2006.1641881"
+
+- title: "Hybrid PRM Sampling with a Cost-Sensitive Adaptive Strategy"
+  authors: "D. Hsu; G. Sánchez-Ante; Z. Sun"
+  venue: "IEEE International Conference on Robotics and Automation (ICRA), Barcelona, pp. 3885–3891"
+  year: 2005
+  type: conference
+  line: robotica
+  doi: "10.1109/ROBOT.2005.1570712"
+
+- title: "A Single-Query Bi-Directional Probabilistic Roadmap Planner with Lazy Collision Checking"
+  authors: "G. Sánchez-Ante; J.-C. Latombe"
+  venue: "Robotics Research (ISRR 2001), STAR 6, Springer, pp. 403–407"
+  year: 2003
+  type: conference
+  line: robotica
+  doi: "10.1007/3-540-36460-9_27"
+  selected: true
+
+- title: "Planning Multi-Goal Tours for Robot Arms"
+  authors: "M. Saha; G. Sánchez-Ante; J.-C. Latombe"
+  venue: "IEEE International Conference on Robotics and Automation (ICRA), Taipei, pp. 3797–3802"
+  year: 2003
+  type: conference
+  line: robotica
+  doi: "10.1109/ROBOT.2003.1242179"
+
+- title: "On Delaying Collision Checking in PRM Planning: Application to Multi-Robot Coordination"
+  authors: "G. Sánchez-Ante; J.-C. Latombe"
+  venue: "The International Journal of Robotics Research 21(1), 5–26"
+  year: 2002
+  type: journal
+  line: robotica
+  doi: "10.1177/027836402320556458"
+  selected: true
+
+- title: "Using a PRM Planner to Compare Centralized and Decoupled Planning for Multi-Robot Systems"
+  authors: "G. Sánchez-Ante; J.-C. Latombe"
+  venue: "IEEE International Conference on Robotics and Automation (ICRA), Washington D.C., pp. 2112–2119"
+  year: 2002
+  type: conference
+  line: robotica
+  doi: "10.1109/ROBOT.2002.1014852"
+
+- title: "Path Planning Using a Single-Query Bi-Directional Lazy Collision Checking Planner"
+  authors: "G. Sánchez-Ante"
+  venue: "Advances in Artificial Intelligence (MICAI 2002), LNAI 2313, Springer, pp. 41–50"
+  year: 2002
+  type: conference
+  line: robotica
+
+- title: "Automated Motion Planning for Industrial Environments: Closing the Gap"
+  authors: "G. Sánchez-Ante"
+  venue: "I Congreso Internacional de Informática y Computación de ANIEI, Guadalajara"
+  year: 2002
+  type: conference
+  line: robotica
+
+- title: "Cooperative Simulated Annealing for Multi-Robot Path Planning"
+  authors: "G. Sánchez-Ante; F. Ramos; J. Frausto"
+  venue: "MICAI 2000, LNAI 1793, Springer, pp. 148–157"
+  year: 2000
+  type: conference
+  line: robotica
+
+- title: "Fundamentos de Lógica Computacional"
+  authors: "J. Frausto Solís; G. Sánchez-Ante"
+  venue: "Editorial Trillas, México, ISBN 968-24-6100-6"
+  year: 2000
+  type: book
+  line: ia
+
+- title: "Locally Optimal Path Planning by Using Probabilistic Roadmaps and Simulated Annealing"
+  authors: "G. Sánchez-Ante; F. Ramos; J. Frausto"
+  venue: "IASTED International Conference on Robotics and Applications, Santa Barbara"
+  year: 1999
+  type: conference
+  line: robotica
+
+- title: "Solving the Routing and Scheduling Problem in Multiagent Domains by Using a Fuzzy Temporal Mechanism"
+  authors: "F. Ramos; G. Sánchez-Ante; E. Espinoza; M. Quintana"
+  venue: "4th IASTED International Conference on Robotics and Manufacturing, Honolulu"
+  year: 1996
+  type: conference
+  line: ia
+
+- title: "Una propuesta de metodología para la enseñanza de los métodos numéricos"
+  authors: "C. Astengo-Noguez; G. Sánchez-Ante"
+  venue: "XXV Reunión de Intercambio de Experiencias en Educación, Sistema ITESM, pp. 78–82"
+  year: 1996
+  type: conference
+  line: ia
+
+- title: "A Fuzzy Temporal Mechanism for Planning in Multi-Agent Domains"
+  authors: "F. Ramos; G. Sánchez-Ante; E. Espinoza; M. J. Elliot"
+  venue: "3rd IASTED International Conference on Robotics and Manufacturing, Cancún, pp. 349–352"
+  year: 1995
+  type: conference
+  line: ia
+
+- title: "Simplificación del mecanismo de propagación de restricciones temporales de Allen mediante el razonamiento difuso"
+  authors: "G. Sánchez-Ante; F. Ramos"
+  venue: "XXV Reunión de Investigación y Desarrollo Tecnológico del Sistema ITESM, pp. 380–387"
+  year: 1995
+  type: conference
+  line: ia
+
+- title: "Algoritmos genéticos"
+  authors: "G. Sánchez-Ante; O. Mayora; I. Parra; A. Brito"
+  venue: "Revista Amatl, Universidad de Guadalajara, 8(1), 11–13"
+  year: 1994
+  type: outreach
+  line: ia
+
+- title: "Diseño e implementación de un sistema basado en el conocimiento para simulación de procesos"
+  authors: "G. Sánchez-Ante; A. Aviña; R. Sanjuán"
+  venue: "VI Congreso Latinoamericano de Celulosa y Papel, Torremolinos, pp. 381–390"
+  year: 1992
+  type: conference
+  line: ia
+
+- title: "Diseño de un sistema basado en el conocimiento para análisis químico cualitativo"
+  authors: "G. Sánchez-Ante; R. Martínez; L. Munguía; A. Aviña"
+  venue: "Revista COMPUDEG, Universidad de Guadalajara, 2(12), 4–8"
+  year: 1992
+  type: outreach
+  line: ia
+
+- title: "Aplicación de una técnica híbrida: un sistema basado en el conocimiento para simulación de procesos de pulpeo"
+  authors: "G. Sánchez-Ante; A. Aviña; R. Sanjuán"
+  venue: "Revista COMPUDEG, Universidad de Guadalajara, 1(10), 23–30"
+  year: 1992
+  type: outreach
+  line: ia
+
+- title: "Diseño de bancos de información automatizados y su empleo para simulación de procesos de pulpa y papel"
+  authors: "G. Sánchez-Ante; R. Sanjuán; A. Aviña"
+  venue: "IV Jornadas Técnicas de Celulosa y Papel, ATCP, Concepción, Chile, pp. 730–739"
+  year: 1991
+  type: conference
+  line: ia
+
+- title: "Una introducción a la inteligencia artificial"
+  authors: "G. Sánchez-Ante; A. Aviña"
+  venue: "Revista COMPUDEG, Universidad de Guadalajara, 1(4), 21–25"
+  year: 1991
+  type: outreach
+  line: ia
+
+- title: "La simulación de procesos y la inteligencia artificial como herramientas en la industria"
+  authors: "G. Sánchez-Ante; A. Aviña"
+  venue: "Revista Amatl, IMCyP, 5(1), 32–37"
+  year: 1990
+  type: outreach
+  line: ia

@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'es' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  {% seo %}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Public+Sans:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22><rect width=%2232%22 height=%2232%22 rx=%226%22 fill=%22%231D6B5A%22/><text x=%2216%22 y=%2222%22 font-family=%22Georgia,serif%22 font-size=%2215%22 fill=%22white%22 text-anchor=%22middle%22>GS</text></svg>">
+  {% include jsonld.html %}
+</head>
+<body>
+  <a class="skip" href="#contenido">Saltar al contenido</a>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="{{ '/' | relative_url }}">{{ site.first_name | slice: 0 }}. {{ site.last_name }}</a>
+      <nav aria-label="Secciones">
+        <ul>
+          <li><a href="#investigacion">Investigación</a></li>
+          <li><a href="#publicaciones">Publicaciones</a></li>
+          <li><a href="#estudiantes">Estudiantes</a></li>
+          <li><a href="#docencia">Docencia</a></li>
+          <li><a href="#trayectoria">Trayectoria</a></li>
+          <li><a href="#contacto">Contacto</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="contenido">
+    {{ content }}
+  </main>
+
+  <footer class="footer">
+    <p>© {{ site.time | date: "%Y" }} {{ site.name }}. Actualizado el {{ site.time | date: "%d/%m/%Y" }}.</p>
+  </footer>
+
+  <script src="{{ '/assets/js/planner.js' | relative_url }}" defer></script>
+  <script src="{{ '/assets/js/publications.js' | relative_url }}" defer></script>
+</body>
+</html>

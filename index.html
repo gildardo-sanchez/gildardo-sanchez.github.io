@@ -1,0 +1,264 @@
+---
+layout: default
+---
+{% assign pubs = site.data.publications %}
+{% assign journals = pubs | where: "type", "journal" %}
+{% assign phd = site.data.students.phd_current %}
+{% assign masters = site.data.students.masters_done %}
+
+<section class="hero" aria-labelledby="nombre">
+  <div class="hero-text">
+    <h1 id="nombre" class="name"><span>{{ site.first_name }}</span> <span>{{ site.last_name }}</span></h1>
+    <p class="role">{{ site.position }} en el <a href="{{ site.affiliation_url }}">{{ site.affiliation }}</a></p>
+    <p class="lede">Uso aprendizaje automático para acelerar el descubrimiento de nanomateriales, leer cultivos desde drones y entender señales biomédicas. Empecé planificando movimientos de robots en el laboratorio de Jean-Claude Latombe, en Stanford.</p>
+    <p class="facts">{{ pubs | size }} publicaciones, {{ journals | size }} de ellas en revistas; {{ phd | size }} doctorandos en curso y {{ masters | size }} tesis de maestría dirigidas. Investigador Nacional (SNI I) y Senior Member de IEEE y ACM.</p>
+
+    <div class="actions">
+      <a class="btn btn-primary" href="#publicaciones">Ver publicaciones</a>
+      {% if site.recruiting %}<a class="btn" href="#unete">Hacer un posgrado conmigo</a>{% endif %}
+      {% if site.cv_pdf != "" %}<a class="btn" href="{{ site.cv_pdf | relative_url }}">Descargar CV (PDF)</a>{% endif %}
+    </div>
+
+    <ul class="profiles" aria-label="Perfiles académicos">
+      {% for p in site.profiles %}<li><a href="{{ p.url }}" rel="me">{{ p.name }}</a></li>{% endfor %}
+      {% if site.email != "" %}<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %}
+    </ul>
+  </div>
+
+  <figure class="planner">
+    <canvas id="planner-canvas" role="img" aria-label="Animación: dos árboles de exploración crecen desde un punto de inicio y uno de meta, esquivan obstáculos y se unen en una trayectoria."></canvas>
+    <figcaption>
+      <span>Dos árboles aleatorios crecen desde el inicio y la meta hasta encontrarse: la idea de mi planificador bidireccional <a href="https://doi.org/10.1007/3-540-36460-9_27">SBL</a>, aquí corriendo en tu navegador.</span>
+      <button type="button" class="link-btn" id="planner-replay">Planear otra vez</button>
+    </figcaption>
+  </figure>
+</section>
+
+<!-- ───────────── Investigación ───────────── -->
+<section id="investigacion" class="block" aria-labelledby="h-investigacion">
+  <h2 id="h-investigacion">Investigación</h2>
+  <div class="block-body">
+    <p class="intro">Mi grupo combina aprendizaje automático con problemas de otras disciplinas. Estas son las líneas activas:</p>
+    <div class="lines">
+    {% for line in site.data.research %}{% if line.show %}
+      {% assign line_pubs = pubs | where: "line", line.id %}
+      {% assign line_sel = line_pubs | where: "selected", true %}
+      <article class="line" id="linea-{{ line.id }}">
+        <h3>{{ line.name }}</h3>
+        <p>{{ line.summary }}</p>
+        <p class="methods">{{ line.methods }}</p>
+        {% if line_sel.size > 0 %}
+        <ul class="reps">
+          {% for p in line_sel limit: 2 %}
+          <li>{% if p.doi %}<a href="https://doi.org/{{ p.doi }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %} <span class="rep-meta">({{ p.year }})</span></li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+        <a class="more" href="#publicaciones" data-filter-line="{{ line.id }}">Ver las {{ line_pubs | size }} publicaciones de esta línea</a>
+      </article>
+    {% endif %}{% endfor %}
+    </div>
+
+    {% if site.data.projects and site.data.projects.size > 0 %}
+    <h3 class="sub" id="proyectos">Proyectos</h3>
+    <ul class="projects">
+      {% for pr in site.data.projects %}
+      <li>
+        <strong>{% if pr.url and pr.url != "" %}<a href="{{ pr.url }}">{{ pr.title }}</a>{% else %}{{ pr.title }}{% endif %}</strong>
+        <span>{{ pr.funder }}{% if pr.role %}, {{ pr.role }}{% endif %}. {{ pr.period }}.</span>
+        {% if pr.partners %}<span class="muted">Con {{ pr.partners }}.</span>{% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+
+    <h3 class="sub">Con quién he colaborado</h3>
+    <ul class="collab">
+      {% for c in site.data.collaborators %}<li><span>{{ c.name }}</span> <span class="muted">{{ c.org }}</span></li>{% endfor %}
+    </ul>
+    <p class="note">¿Trabajas en un problema donde el aprendizaje automático podría ayudar? Me interesa colaborar con grupos de química, biología, agronomía y robótica. {% if site.email != "" %}<a href="mailto:{{ site.email }}?subject=Colaboración">Escríbeme</a>.{% else %}<a href="#contacto">Contáctame</a>.{% endif %}</p>
+  </div>
+</section>
+
+<!-- ───────────── Publicaciones ───────────── -->
+<section id="publicaciones" class="block" aria-labelledby="h-publicaciones">
+  <h2 id="h-publicaciones">Publicaciones</h2>
+  <div class="block-body">
+    <div class="pub-controls" role="search">
+      <label class="search">
+        <span class="visually-hidden">Buscar en publicaciones</span>
+        <input type="search" id="pub-search" placeholder="Buscar por título, coautor o revista" autocomplete="off">
+      </label>
+      <div class="chips" role="group" aria-label="Filtrar por línea">
+        <button type="button" class="chip" data-line="all" aria-pressed="true">Todas</button>
+        {% for line in site.data.research %}<button type="button" class="chip" data-line="{{ line.id }}" aria-pressed="false">{{ line.short }}</button>{% endfor %}
+      </div>
+      <div class="filters-row">
+        <label>Tipo
+          <select id="pub-type">
+            <option value="all">Todos</option>
+            <option value="journal">Artículos en revista</option>
+            <option value="conference">Congresos</option>
+            <option value="chapter">Capítulos</option>
+            <option value="book">Libros</option>
+            <option value="editorial">Editoriales</option>
+            <option value="outreach">Divulgación</option>
+          </select>
+        </label>
+        <label class="check"><input type="checkbox" id="pub-selected"> Solo destacadas</label>
+        <p class="count" id="pub-count" aria-live="polite">{{ pubs | size }} publicaciones</p>
+      </div>
+    </div>
+
+    <div class="pub-list" id="pub-list">
+    {% assign prev_year = "" %}
+    {% for p in pubs %}
+      {% assign y = p.year | append: "" %}
+      {% if y != prev_year %}<h3 class="pub-year" data-year="{{ y }}">{{ y }}</h3>{% assign prev_year = y %}{% endif %}
+      {% assign l = site.data.research | where: "id", p.line | first %}
+      {% case p.type %}
+        {% when "journal" %}{% assign tlabel = "Artículo en revista" %}
+        {% when "conference" %}{% assign tlabel = "Congreso" %}
+        {% when "chapter" %}{% assign tlabel = "Capítulo" %}
+        {% when "book" %}{% assign tlabel = "Libro" %}
+        {% when "editorial" %}{% assign tlabel = "Editorial" %}
+        {% else %}{% assign tlabel = "Divulgación" %}
+      {% endcase %}
+      {% if p.doi %}{% assign link = "https://doi.org/" | append: p.doi %}{% elsif p.url %}{% assign link = p.url %}{% else %}{% assign link = "" %}{% endif %}
+      <article class="pub{% if p.selected %} is-selected{% endif %}" data-line="{{ p.line }}" data-type="{{ p.type }}" data-year="{{ y }}" data-selected="{% if p.selected %}1{% else %}0{% endif %}" data-title="{{ p.title | escape }}" data-authors="{{ p.authors | escape }}" data-venue="{{ p.venue | escape }}" data-doi="{{ p.doi }}">
+        <h4 class="pub-title">{% if link != "" %}<a href="{{ link }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</h4>
+        <p class="pub-authors">{{ p.authors | replace: "; ", ", " | replace: "G. Sánchez-Ante", "<strong>G. Sánchez-Ante</strong>" }}</p>
+        <p class="pub-venue"><em>{{ p.venue }}</em>, {{ y }}.</p>
+        <p class="pub-meta">
+          <span class="tag">{{ tlabel }}</span>
+          <span class="tag tag-line">{{ l.short }}</span>
+          {% if p.selected %}<span class="tag tag-sel">Destacada</span>{% endif %}
+          {% if p.doi %}<a href="https://doi.org/{{ p.doi }}">DOI</a>{% endif %}
+          {% if p.pdf %}<a href="{{ p.pdf | relative_url }}">PDF</a>{% endif %}
+          {% if p.code %}<a href="{{ p.code }}">Código</a>{% endif %}
+          <button type="button" class="link-btn bib-btn">Copiar BibTeX</button>
+        </p>
+      </article>
+    {% endfor %}
+    <button type="button" class="btn more-pubs" id="pub-more" hidden>Mostrar todas</button>
+    <p class="empty" id="pub-empty" hidden>Ninguna publicación coincide con estos filtros. <button type="button" class="link-btn" id="pub-reset">Quitar filtros</button></p>
+    </div>
+  </div>
+</section>
+
+<!-- ───────────── Estudiantes ───────────── -->
+<section id="estudiantes" class="block" aria-labelledby="h-estudiantes">
+  <h2 id="h-estudiantes">Estudiantes</h2>
+  <div class="block-body">
+    {% if site.recruiting %}
+    <div class="recruit" id="unete">
+      <h3>Busco estudiantes de doctorado y maestría</h3>
+      <p>Si te interesa alguna de mis líneas de investigación y quieres hacer tu tesis conmigo en el {% if site.program_url != "" %}<a href="{{ site.program_url }}">{{ site.program_name }}</a>{% else %}{{ site.program_name }}{% endif %}, escríbeme con:</p>
+      <ul class="plain">
+        <li>Tu CV y tu historial académico.</li>
+        <li>Un párrafo sobre la línea que te interesa y por qué.</li>
+        <li>Algún proyecto o código tuyo (repositorio, tesis previa o artículo).</li>
+      </ul>
+      <p class="muted">Ayuda mucho tener bases de programación en Python y de estadística o álgebra lineal. No necesitas experiencia previa en química, biología o robótica.</p>
+      {% if site.email != "" %}<a class="btn btn-primary" href="mailto:{{ site.email }}?subject=Interés%20en%20posgrado">Escribirme sobre un posgrado</a>{% else %}<a class="btn btn-primary" href="#contacto">Ver cómo contactarme</a>{% endif %}
+    </div>
+    {% endif %}
+
+    <h3 class="sub">Doctorado, en curso</h3>
+    <ul class="students">
+      {% for s in phd %}
+      {% assign l = site.data.research | where: "id", s.line | first %}
+      <li>
+        <span class="st-name">{{ s.name }}</span>
+        <span class="st-topic">{{ s.topic }}</span>
+        <span class="st-meta">{{ l.short }}. Titulación prevista: {{ s.expected }}.</span>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <details class="alumni">
+      <summary>{{ masters | size }} tesis de maestría concluidas</summary>
+      <ul class="students compact">
+        {% for s in masters %}
+        <li><span class="st-name">{{ s.name }}, {{ s.year }}</span> <span class="st-topic">{{ s.topic }}</span> <span class="st-meta">{{ s.program }}</span></li>
+        {% endfor %}
+      </ul>
+    </details>
+  </div>
+</section>
+
+<!-- ───────────── Docencia ───────────── -->
+<section id="docencia" class="block" aria-labelledby="h-docencia">
+  <h2 id="h-docencia">Docencia</h2>
+  <div class="block-body">
+    {% if site.data.teaching.current.size > 0 %}
+    <h3 class="sub first">Este periodo</h3>
+    <ul class="courses">
+      {% for c in site.data.teaching.current %}<li>{% if c.url and c.url != "" %}<a href="{{ c.url }}">{{ c.name }}</a>{% else %}{{ c.name }}{% endif %} <span class="muted">{{ c.level }}, {{ c.term }}</span></li>{% endfor %}
+    </ul>
+    {% endif %}
+    <h3 class="sub{% if site.data.teaching.current.size == 0 %} first{% endif %}">Cursos que he impartido</h3>
+    <ul class="courses">
+      {% for c in site.data.teaching.past %}<li>{{ c.name }} <span class="muted">{{ c.level }}</span></li>{% endfor %}
+    </ul>
+    <h3 class="sub">Libros para el aula</h3>
+    <ul class="courses">
+      {% for m in site.data.teaching.materials %}<li><em>{{ m.title }}</em> <span class="muted">{{ m.note }}</span></li>{% endfor %}
+    </ul>
+  </div>
+</section>
+
+<!-- ───────────── Trayectoria ───────────── -->
+<section id="trayectoria" class="block" aria-labelledby="h-trayectoria">
+  <h2 id="h-trayectoria">Trayectoria</h2>
+  <div class="block-body">
+    <ol class="timeline">
+      {% for t in site.data.experience.positions %}
+      <li>
+        <span class="tl-period">{{ t.period }}</span>
+        <div class="tl-body">
+          <span class="tl-role">{{ t.role }}</span>
+          <span class="tl-org">{{ t.org }}</span>
+          {% if t.note %}<span class="tl-note">{{ t.note }}</span>{% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ol>
+
+    <h3 class="sub">Formación</h3>
+    <ul class="edu">
+      {% for e in site.data.experience.education %}
+      <li>
+        <span class="tl-role">{{ e.degree }}, {{ e.year }}</span>
+        <span class="tl-org">{{ e.org }}</span>
+        <span class="tl-note">Tesis: <em>{{ e.thesis }}</em>{% if e.note %}. {{ e.note }}{% endif %}.</span>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <h3 class="sub">Distinciones</h3>
+    <ul class="honors">
+      {% for h in site.data.honors.distinctions %}<li><span class="h-year">{{ h.year }}</span> <span>{{ h.title }}, {{ h.org }}</span></li>{% endfor %}
+    </ul>
+
+    <h3 class="sub">Servicio a la comunidad</h3>
+    <ul class="plain">
+      {% for x in site.data.honors.editorial %}<li>{{ x }}</li>{% endfor %}
+      <li>Miembro de {{ site.data.honors.memberships }}</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ───────────── Contacto ───────────── -->
+<section id="contacto" class="block" aria-labelledby="h-contacto">
+  <h2 id="h-contacto">Contacto</h2>
+  <div class="block-body">
+    <address>
+      {% if site.email != "" %}<p class="contact-mail"><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>{% endif %}
+      <p>{{ site.affiliation }}<br>{{ site.location }}</p>
+    </address>
+    <ul class="profiles">
+      {% for p in site.profiles %}<li><a href="{{ p.url }}" rel="me">{{ p.name }}</a></li>{% endfor %}
+    </ul>
+  </div>
+</section>

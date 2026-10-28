@@ -1,0 +1,17 @@
+# Trayectoria, de lo más reciente a lo más antiguo.
+positions:
+  - { period: "2021 – hoy", role: "Profesor investigador", org: "Tecnológico de Monterrey, Campus Guadalajara", note: "Dirijo proyectos de investigación y tesis de posgrado, consigo financiamiento externo e imparto cursos." }
+  - { period: "2016 – 2021", role: "Rector", org: "Universidad Politécnica de Yucatán", note: "Presupuesto, plan anual de operación, contratación de la planta académica y vinculación con gobierno e industria." }
+  - { period: "2011 – 2016", role: "Director de Investigación", org: "Tecnológico de Monterrey, Campus Guadalajara", note: "Plan de investigación del campus y cátedras de investigación; en 2011–2012 también el Parque Tecnológico." }
+  - { period: "2008 – 2011", role: "Director de Vinculación y, después, de la Escuela de Ingeniería, Arquitectura y Salud", org: "Tecnológico de Monterrey, Campus Guadalajara" }
+  - { period: "2006 – 2007", role: "Director del Departamento de Ciencias Computacionales y TI", org: "Tecnológico de Monterrey, Campus Guadalajara" }
+  - { period: "2004 – 2005", role: "Research Fellow", org: "National University of Singapore, Singapore-MIT Alliance", note: "Muestreo para pasajes estrechos en planificadores PRM." }
+  - { period: "2002 – 2003", role: "Director de la carrera de Ingeniería en Sistemas Computacionales", org: "Tecnológico de Monterrey, Campus Guadalajara" }
+  - { period: "1999 – 2002", role: "Research Visitor", org: "Robotics Laboratory, Stanford University", note: "Planificación de movimientos con Jean-Claude Latombe; origen del planificador SBL." }
+  - { period: "1995 – 1999", role: "Profesor", org: "Tecnológico de Monterrey, campus Guadalajara y Morelos" }
+  - { period: "1990 – 1993", role: "Investigador asistente", org: "Instituto de Madera, Celulosa y Papel (UdeG) y Centro de Sistemas de Manufactura (Tec)" }
+
+education:
+  - { degree: "Doctorado en Ciencias Computacionales", org: "Tecnológico de Monterrey, Campus Morelos", year: 2002, thesis: "Single-Query Bi-Directional Motion Planning with Lazy Collision Checking", note: "Mejor promedio de la generación y mención honorífica" }
+  - { degree: "Maestría en Ciencias Computacionales (Inteligencia Artificial)", org: "Tecnológico de Monterrey, Campus Morelos", year: 1994, thesis: "Proposición de un mecanismo de razonamiento temporal difuso para planificación en sistemas multiagentes" }
+  - { degree: "Ingeniería Química (Celulosa y Papel)", org: "Universidad de Guadalajara", year: 1991, thesis: "Diseño de un banco de información automatizado para simulación de procesos de pulpeo" }

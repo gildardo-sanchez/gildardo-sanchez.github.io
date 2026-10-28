@@ -1,0 +1,71 @@
+# ─────────────────────────────────────────────────────────────
+#  Configuración del sitio. Edita este archivo primero.
+#  Tras cambiarlo, GitHub Pages reconstruye el sitio solo.
+# ─────────────────────────────────────────────────────────────
+
+# Datos personales
+name: "Gildardo Sánchez-Ante"
+first_name: "Gildardo"
+last_name: "Sánchez-Ante"
+position: "Profesor investigador"
+affiliation: "Tecnológico de Monterrey, Campus Guadalajara"
+affiliation_url: "https://tec.mx"
+location: "Zapopan, Jalisco, México"
+
+# Correo de contacto. Déjalo vacío para ocultarlo.
+email: ""            # p. ej. "gsanchez@tec.mx"
+
+# CV en PDF (opcional). Sube el archivo a assets/cv/ y escribe la ruta.
+cv_pdf: ""           # p. ej. "/assets/cv/CV_Sanchez-Ante.pdf"
+
+# ¿Estás recibiendo estudiantes? Controla el recuadro de la sección Estudiantes.
+recruiting: true
+program_name: "Doctorado en Ciencias Computacionales del Tecnológico de Monterrey"
+program_url: ""      # liga a la página oficial del programa
+
+# Perfiles académicos. Solo agrega los que tengan URL real:
+# alimentan los botones del sitio y los datos estructurados (Google).
+profiles:
+  - name: "ORCID"
+    url: "https://orcid.org/0000-0003-3666-0855"
+  - name: "Scopus"
+    url: "https://www.scopus.com/authid/detail.uri?authorId=6508331894"
+  # - name: "Google Scholar"
+  #   url: "https://scholar.google.com/citations?user=XXXXXXX"
+  # - name: "ResearchGate"
+  #   url: "https://www.researchgate.net/profile/XXXXXXX"
+  # - name: "GitHub"
+  #   url: "https://github.com/XXXXXXX"
+
+# SEO (lo usa jekyll-seo-tag)
+title: "Gildardo Sánchez-Ante"
+tagline: "Aprendizaje automático para materiales, agricultura y salud"
+description: >-
+  Profesor investigador del Tecnológico de Monterrey. Aprendizaje automático
+  aplicado a nanomateriales, agricultura de precisión con drones, salud y
+  planificación de movimientos en robótica.
+lang: "es-MX"
+locale: "es_MX"
+author:
+  name: "Gildardo Sánchez-Ante"
+social:
+  name: "Gildardo Sánchez-Ante"
+  links:
+    - "https://orcid.org/0000-0003-3666-0855"
+# image: /assets/img/og.png   # imagen para compartir en redes (1200×630)
+
+# URL pública. Para https://USUARIO.github.io deja baseurl vacío.
+# Para https://USUARIO.github.io/REPO escribe baseurl: "/REPO".
+url: "https://USUARIO.github.io"
+baseurl: ""
+
+# Compilación (no es necesario cambiar)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+markdown: kramdown
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

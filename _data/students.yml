@@ -1,0 +1,40 @@
+# Estudiantes. "line" enlaza con research.yml.
+
+phd_current:
+  - name: "Diego Villatoro Gerónimo"
+    topic: "A Lightweight and Explainable Deep Learning Framework for Screening Anomalous Agave Plants in UAV Imagery"
+    expected: "Dic. 2026"
+    line: agro
+  - name: "Marco A. Parra Vilchis"
+    topic: "Multimodal Representation Learning in Biomedical Applications"
+    expected: "Dic. 2029"
+    line: salud
+  - name: "Mauricio A. Flores Pérez"
+    topic: "Enhancing Collaboration, Communication, and Negotiation in Heterogeneous Robotic Systems Using Large Language Models for Complex Task Execution"
+    expected: "Jul. 2030"
+    line: robotica
+  - name: "G. León Silva Oceguera"
+    topic: "Automated Analysis and Detection of Plaques in Cell Cultures Infected with Viruses"
+    expected: "Jul. 2030"
+    line: salud
+
+masters_done:
+  - { name: "Oscar Gallegos González", year: 2024, topic: "Optimización de cobertura y costos de cámaras de seguridad a partir de un algoritmo genético", program: "M. en Ciencias Computacionales" }
+  - { name: "Lourdes Isabel Hernández Ballesteros", year: 2024, topic: "Análisis de variables mediante ciencia de datos para reducir mermas en una empresa de alimentos", program: "M. en Ciencias en Sistemas de Calidad y Productividad" }
+  - { name: "José de Jesús Nicolás Zúñiga González", year: 2023, topic: "Uso de BRKGA como herramienta para generar el plan de producción de una fábrica de empaques de cartón", program: "M. en Ciencias en Sistemas de Calidad y Productividad" }
+  - { name: "Héctor Gabriel Olagues Torres", year: 2023, topic: "Modelo de aprendizaje profundo para la detección de errores en el contenido gráfico de paneles de instrumentos automotrices", program: "M. en Ciencias de la Computación" }
+  - { name: "Francisco Alan Gutiérrez Treviño", year: 2017, topic: "Clasificación automática de señales de EEG mediante redes de convolución para reconocer ejecución e intención de movimiento", program: "M. en Ciencias Computacionales" }
+  - { name: "Eric Flores Godínez", year: 2017, topic: "Ubicación óptima de ambulancias usando el algoritmo NSGA-II", program: "M. en Ciencias Computacionales" }
+  - { name: "Ignacio Quintero Rizo", year: 2015, topic: "Propuesta de un agente de Angry Birds basado en algoritmos genéticos", program: "M. en Ciencias de la Computación" }
+  - { name: "Hugo Armando Peregrina Sosa", year: 2015, topic: "Sistema inteligente para manejo de citas de trabajo", program: "M. en Ciencias de la Computación" }
+  - { name: "Adrián García Betancourt", year: 2015, topic: "Comparación de algoritmos para el reconocimiento de señales de tránsito", program: "M. en Ciencias de la Computación" }
+  - { name: "Carlos Ramón Garibay Güémez", year: 2015, topic: "Combinación de PSO geométrico y PSO geométrico inercial con una red neuronal para selección de genes en microarreglos de ADN", program: "M. en Ciencias de la Computación" }
+  - { name: "Ricardo Rodrigo Rocha Páez", year: 2015, topic: "Multi-Layer Perceptron and Extreme Learning Machines as Decision Support Elements in the Foreign Exchange Market", program: "M. en Ciencias de la Computación" }
+  - { name: "Ricardo A. Ocampo Vega", year: 2014, topic: "Red de base radial: nueva aproximación con menos parámetros", program: "M. en Ciencias de la Computación" }
+  - { name: "Luis A. Parra González", year: 2014, topic: "Sistema experto para la generación automática de herramientas de validación de software", program: "M. en Ciencias de la Computación" }
+  - { name: "Porfirio de Jesús Flores García", year: 2014, topic: "Uso del espacio de color HSV para mejorar la capacidad de identificación del algoritmo clásico de SURF", program: "M. en Ciencias de la Computación" }
+  - { name: "Enrique G. Juárez López", year: 2014, topic: "Sistema experto para soporte en la coordinación de prendas de vestir", program: "M. en Ciencias de la Computación" }
+  - { name: "Ramón Antonio Neri Orozco", year: 2004, topic: "Determinación del impacto del software de código abierto en las empresas medianas de Guadalajara", program: "M. en Administración de las Telecomunicaciones" }
+  - { name: "José Luis Olarte Figueroa", year: 2000, topic: "Generación del espacio de configuraciones de un robot manipulador utilizando un modelo de red neuronal artificial", program: "M. en Ciencias Computacionales" }
+  - { name: "Héctor Alejandro Montes", year: 2000, topic: "Planificación de trayectorias multi-robóticas mediante algoritmos genéticos", program: "M. en Ciencias Computacionales" }
+  - { name: "Octavio P. Álvarez Cisneros", year: 1999, topic: "Una aportación para la especificación con diagramas de flujo de datos y lógica temporal de Allen", program: "M. en Ciencias Computacionales" }

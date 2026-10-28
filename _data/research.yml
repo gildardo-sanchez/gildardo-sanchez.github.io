@@ -1,0 +1,50 @@
+# Líneas de investigación. "id" enlaza con el campo "line" de publications.yml
+# y students.yml. show: false oculta la línea de la sección Investigación,
+# pero la conserva como filtro de publicaciones.
+
+- id: nano
+  short: "Materiales"
+  name: "IA para diseñar materiales y nanomateriales"
+  summary: >-
+    Modelos de aprendizaje automático que anticipan la actividad antimicrobiana,
+    antioxidante o citotóxica de nanopartículas dopadas antes de sintetizarlas,
+    para ahorrar experimentos de laboratorio y reducir riesgos ambientales.
+    Trabajo de la mano con grupos de química y biotecnología.
+  methods: "Modelos interpretables, selección de variables, diseño guiado por datos"
+  show: true
+
+- id: agro
+  short: "Agricultura"
+  name: "Visión computacional para agricultura de precisión"
+  summary: >-
+    Transformers ligeros y explicables que cuentan plantas de agave y detectan
+    anomalías en imágenes multiespectrales tomadas con drones, pensados para
+    funcionar con pocos recursos de cómputo.
+  methods: "Transformers ligeros, explicabilidad, imágenes multiespectrales de UAV"
+  show: true
+
+- id: salud
+  short: "Salud"
+  name: "Aprendizaje automático en salud"
+  summary: >-
+    Señales de EEG para interfaces cerebro-computadora, segmentación de vasos en
+    imágenes de retina, clasificación de linfomas y, más recientemente,
+    microbiota intestinal, enfermedades raras y aprendizaje multimodal.
+  methods: "Redes neuronales morfológicas, aprendizaje multimodal, análisis de señales"
+  show: true
+
+- id: robotica
+  short: "Robótica"
+  name: "Robótica y planificación de movimientos"
+  summary: >-
+    Planificadores probabilísticos (PRM) con verificación perezosa de colisiones,
+    pasajes estrechos y coordinación multi-robot, línea que inicié en el Robotics
+    Lab de Stanford. Hoy exploro la colaboración entre robots heterogéneos
+    mediante modelos de lenguaje.
+  methods: "PRM, planificación bidireccional, sistemas multi-robot, LLMs"
+  show: true
+
+- id: ia
+  short: "Otros temas de IA"
+  name: "Otros temas de IA"
+  show: false

@@ -1,0 +1,15 @@
+distinctions:
+  - { year: "2020", title: "Senior Member", org: "Association for Computing Machinery (ACM)" }
+  - { year: "2017 – 2024", title: "Investigador Nacional, Nivel I", org: "Sistema Nacional de Investigadores" }
+  - { year: "2013", title: "Profesor Titular", org: "Tecnológico de Monterrey" }
+  - { year: "2013, 2018", title: "Profesores que Dejan Huella", org: "Asociación EXATEC" }
+  - { year: "2013", title: "Senior Member", org: "IEEE" }
+  - { year: "2010 – 2012", title: "Presidente (vicepresidente 2008 – 2010)", org: "Academia Jalisciense de Ciencias" }
+
+editorial:
+  - "Editor invitado, número especial WAFR 2018, The International Journal of Robotics Research (2021)"
+  - "Editor invitado, número especial WAFR 2018, IEEE Transactions on Automation Science and Engineering (2021)"
+  - "Revisor de IEEE Transactions on Robotics, ACS Food Science & Technology, International Journal of Dynamics and Control, Int. J. of Mechanical Engineering and Robotics Research y Komputer Sapiens"
+  - "Evaluador de programas de CONACyT, COECYTJAL y comités COEPES de la Secretaría de Educación Jalisco"
+
+memberships: "AAAI, ACM, IEEE, Academia Mexicana de Computación, Sociedad Mexicana de Ciencia de la Computación y Academia Jalisciense de Ciencias."
