@@ -1,10 +1,19 @@
 # Proyectos de investigación. La sección se muestra solo si hay al menos uno.
 # Copia el ejemplo, quita los "#" y llena los datos.
 #
-# - title: "Detección temprana de anomalías en cultivos de agave con drones"
-#   funder: "Nombre de la institución que financia"
-#   role: "Responsable técnico"
-#   period: "2025 – 2027"
+ - title: "Desarrollo y validación de tecnologías basadas en nanomateriales para la generación eficiente de hidrógeno verde encaminado hacia una transición energética en Jalisco"
+   funder: "FODECIJAL"
+   role: "Colaborador"
+   period: "2025 – 2026"
 #   partners: "Universidad X, Empresa Y"
-#   line: agro
+   line: nanomateriales
 #   url: ""
+
+ - title: " - title: "Desarrollo y validación de tecnologías basadas en nanomateriales para la generación eficiente de hidrógeno verde encaminado hacia una transición energética en Jalisco"
+   funder: "Consejo Regulador del Tequila"
+   role: "Responsable Técnico"
+   period: "2026"
+#   partners: "Universidad X, Empresa Y"
+   line: agro
+#  
+
