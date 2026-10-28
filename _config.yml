@@ -56,8 +56,7 @@ social:
 
 # URL pública. Para https://USUARIO.github.io deja baseurl vacío.
 # Para https://USUARIO.github.io/REPO escribe baseurl: "/REPO".
-url: "https://USUARIO.github.io"
-baseurl: ""
+url: "https://gildardo-sanchez.github.io"
 
 # Compilación (no es necesario cambiar)
 plugins:
